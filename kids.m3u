@@ -3,3 +3,5 @@
 https://ao2v.short.gy/Hun_pkg.m3u8
 #EXTINF:-2 tvg-id="Star Sports 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="Kids",Star Sports 1 HD
 https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/manifest.mpd
+#EXTINF:-3 tvg-id="Sky Sports Cricket" tvg-logo="https://tse1.mm.bing.net/th?q=Sky+Sports+Cricket+Wiki" group-title="Kids",Sky Sports Cricket
+https://linear003-gb-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_sd/Live/channel(skysportscricket)/manifest_sd.mpd
