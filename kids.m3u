@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Hungama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/220px-Hungama_TV.svg.png" group-title="Kids",Hungama
 https://ao2v.short.gy/Hun_pkg.m3u8
+#EXTINF:-2 tvg-id="Star Sports 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="Kids",Star Sports 1 HD
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/manifest.mpd
