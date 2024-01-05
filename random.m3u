@@ -65,7 +65,16 @@ https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_411/output/manifes
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ToWY8Ywy6UGWP0XwrYMqyA", "kid":"AZEJw4hSVlCIgC0gx0rviQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={
+  "keys": [
+    {
+      "kty": "oct",
+      "k": "VUK9rfff/Cavkhdyej3OGA",
+      "kid": "9YFCTBTjXu6STwoLnSLIHA"
+    }
+  ],
+  "type": "temporary"
+}
 #EXTINF:-1 tvg-id="ts15" group-title="Entertainment " tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43-j5fca4k0-v3/imageContent-43-j5fca4k0-m4.png" ,SET HD
 https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_300/output/manifest.mpd
 
