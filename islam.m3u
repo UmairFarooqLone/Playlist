@@ -15,3 +15,5 @@ https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-urdu-hsslive-25f-16Ã
 
 
 #EXTINF:111,Peace TV Urdu 6 #EXTTV:Islamic;Urdu;udp://@239.194.0.42:6042
+
+#EXTINF:112,Peace TV 6 #EXTTV:Islamic;English;udp://@239.194.0.17:6017
