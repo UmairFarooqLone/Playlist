@@ -1,0 +1,4 @@
+#EXTINF:-2 tvg-id="Peace Tv" tvg-logo="" group-title="Islam",Peace Tv
+http://82.114.67.178:8081/hls/PeaceTV.m3u8
+#EXTINF:-2 tvg-id="Peace Tv Urdu" tvg-logo="" group-title="Islam",Peace Tv Urdu
+http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x9-SD/chunklist.m3u8
