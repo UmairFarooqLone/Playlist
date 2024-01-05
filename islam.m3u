@@ -4,3 +4,5 @@ http://82.114.67.178:8081/hls/PeaceTV.m3u8
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x9-SD/chunklist.m3u8
 #EXTINF:-2 tvg-id="Peace Tv Urdu WEB" tvg-logo="https://pbs.twimg.com/profile_images/1131554149/peacetv_400x400.jpg" group-title="Islam",Peace Tv Urdu WEB
 https://livestream.peacetv.tv/PeaceTvUrdu/index.m3u8
+#EXTINF:-1 ,Peace TV English HD
+http://175.107.244.52:4455/play/a06m/index.m3u8
