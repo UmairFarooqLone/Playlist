@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/521.png" group-title="Banjo",PTV SPORTS
+http://testing.denver1769.in/benj.php?id=521
 #EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/872.png" group-title="Banjo",SONGS COLLECTION - HINDI
 http://testing.denver1769.in/benj.php?id=872
 #EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/735.png" group-title="Banjo",MOVIES1
@@ -649,8 +651,6 @@ http://testing.denver1769.in/benj.php?id=518
 http://testing.denver1769.in/benj.php?id=519
 #EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/522.png" group-title="Banjo",GEO SUPER
 http://testing.denver1769.in/benj.php?id=522
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/521.png" group-title="Banjo",PTV SPORTS
-http://testing.denver1769.in/benj.php?id=521
 #EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/4208.PNG" group-title="Banjo",DAZN PREMIER SHOW
 http://testing.denver1769.in/benj.php?id=4280
 #EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/583.png" group-title="Banjo",UFC Game  Day
