@@ -63,11 +63,11 @@ http://testing.denver1769.in/benj.php?id=669
 http://testing.denver1769.in/benj.php?id=673
 #EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/670.png" group-title="Banjo",SONY SIX HD͏͏͏
 http://testing.denver1769.in/benj.php?id=670
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/2777.png" group-title="Banjo",PEACE TV.
-http://testing.denver1769.in/benj.php?id=2778
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",PEACE TV
-http://testing.denver1769.in/benj.php?id=3116
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",PEACE TV ENGLISH
+#EXTINF:-1 tvg-id="DEFAULT" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/" group-title="URDU",PEACE TV URDU PAK 
+http://testing.denver1769.in/tptv.php?id=12027
+#EXTINF:-1 tvg-id="peacetv.us" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/" group-title="URDU",PEACE TV URDU UK 
+http://testing.denver1769.in/tptv.php?id=11879
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/2777.png" group-title="Banjo",PEACE TV ENGLISH
 http://testing.denver1769.in/benj.php?id=3143
 #EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/755.png" group-title="Banjo",CARTOON NETWORK HINDI
 http://testing.denver1769.in/benj.php?id=755
