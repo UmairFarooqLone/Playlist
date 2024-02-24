@@ -1,945 +1,1426 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/521.png" group-title="Banjo",PTV SPORTS
-http://testing.denver1769.in/benj.php?id=521
-#EXTINF:-1 tvg-id="DEFAULT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="CRICKET",A SPORTS 
+#EXTINF:-1 tvg-id="DEFAULT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="Pakistan",A SPORTS
 http://testing.denver1769.in/tptv.php?id=30975
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/523.png" group-title="Banjo",WILLOW TV HD
-http://testing.denver1769.in/benj.php?id=14379
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/504.png" group-title="Banjo",STAR SPORTS 1 HD
-http://testing.denver1769.in/benj.php?id=504
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/524.png" group-title="Banjo",STAR SPORTS 1 HD͏͏͏
-http://testing.denver1769.in/benj.php?id=524
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/502.png" group-title="Banjo",STAR SPORTS 2 HD
-http://testing.denver1769.in/benj.php?id=502
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/525.png" group-title="Banjo",STAR SPORTS 2 HD͏͏͏
-http://testing.denver1769.in/benj.php?id=525
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/526.png" group-title="Banjo",STAR SPORTS 1 HD HINDI͏͏͏
-http://testing.denver1769.in/benj.php?id=526
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/505.png" group-title="Banjo",STAR SPORTS 1 HD HINDI
-http://testing.denver1769.in/benj.php?id=505
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/506.png" group-title="Banjo",STAR SPORTS TAMIL
-http://testing.denver1769.in/benj.php?id=506
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/508.png" group-title="Banjo",SKY CRICKET HD
-http://testing.denver1769.in/benj.php?id=508
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/511.png" group-title="Banjo",ASTRO CRICKET HD
-http://testing.denver1769.in/benj.php?id=511
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/510.png" group-title="Banjo",TEN CRICKET HD
-http://testing.denver1769.in/benj.php?id=510
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/512.png" group-title="Banjo",STAR SPORTS SELECT 1 HD
-http://testing.denver1769.in/benj.php?id=512
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/515.png" group-title="Banjo",STAR SPORTS SELECT 2 HD
-http://testing.denver1769.in/benj.php?id=515
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/520.png" group-title="Banjo",SONY SIX HD
-http://testing.denver1769.in/benj.php?id=520
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/516.png" group-title="Banjo",SONY TEN 1 HD
-http://testing.denver1769.in/benj.php?id=516
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/517.png" group-title="Banjo",SONY TEN 2 HD
-http://testing.denver1769.in/benj.php?id=517
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/518.png" group-title="Banjo",SONY TEN 3 HD
-http://testing.denver1769.in/benj.php?id=518
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/519.png" group-title="Banjo",DD SPORTS HD
-http://testing.denver1769.in/benj.php?id=519
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/522.png" group-title="Banjo",GEO SUPER
-http://testing.denver1769.in/benj.php?id=522
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/542.png" group-title="Banjo",SKY SPORTS  CRICKET HD
-http://testing.denver1769.in/benj.php?id=542
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/638.png" group-title="Banjo",WILLOW CRICKET HD
-http://testing.denver1769.in/benj.php?id=14409
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/653.png" group-title="Banjo",STAR SP 2 HD
-http://testing.denver1769.in/benj.php?id=653
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/539.png" group-title="Banjo",STAR SP 1 HD HINDI
-http://testing.denver1769.in/benj.php?id=539
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/544.png" group-title="Banjo",STAR SP SELECT 1 HD
-http://testing.denver1769.in/benj.php?id=544
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/556.png" group-title="Banjo",STAR SP SELECT 2 HD
-http://testing.denver1769.in/benj.php?id=556
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/667.png" group-title="Banjo",GEO SUPER͏͏͏
-http://testing.denver1769.in/benj.php?id=667
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/672.png" group-title="Banjo",SONY TEN 1 HD͏͏͏
-http://testing.denver1769.in/benj.php?id=672
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/669.png" group-title="Banjo",SONY TEN 2 HD͏͏͏
-http://testing.denver1769.in/benj.php?id=669
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/673.png" group-title="Banjo",SONY TEN 3 HD͏͏͏
-http://testing.denver1769.in/benj.php?id=673
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/670.png" group-title="Banjo",SONY SIX HD͏͏͏
-http://testing.denver1769.in/benj.php?id=670
-#EXTINF:-1 tvg-id="DEFAULT" tvg-logo="https://assets.peacetv.tv/images/intro/ur-logo.png" group-title="URDU",PEACE TV URDU PAK 
+#EXTINF:-1 tvg-id="DEFAULT" tvg-logo="https://assets.peacetv.tv/images/intro/ur-logo.png" group-title="Pakistan",PEACE TV URDU PAK
 http://testing.denver1769.in/tptv.php?id=12027
-#EXTINF:-1 tvg-id="peacetv.us" tvg-logo="https://assets.peacetv.tv/images/intro/ur-logo.png" group-title="URDU",PEACE TV URDU UK 
+#EXTINF:-1 tvg-id="peacetv.us" tvg-logo="https://assets.peacetv.tv/images/intro/ur-logo.png" group-title="Pakistan",PEACE TV URDU UK
 http://testing.denver1769.in/tptv.php?id=11879
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/2777.png" group-title="Banjo",PEACE TV ENGLISH
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/521.png" group-title="Pakistan",PTV SPORTS
+http://testing.denver1769.in/benj.php?id=521
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/523.png" group-title="Pakistan",WILLOW TV HD
+http://testing.denver1769.in/benj.php?id=14379
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/508.png" group-title="Pakistan",SKY CRICKET HD
+http://testing.denver1769.in/benj.php?id=508
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/511.png" group-title="Pakistan",ASTRO CRICKET HD
+http://testing.denver1769.in/benj.php?id=511
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/510.png" group-title="Pakistan",TEN CRICKET HD
+http://testing.denver1769.in/benj.php?id=510
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/522.png" group-title="Pakistan",GEO SUPER
+http://testing.denver1769.in/benj.php?id=522
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/542.png" group-title="Pakistan",SKY SPORTS  CRICKET HD
+http://testing.denver1769.in/benj.php?id=542
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/638.png" group-title="Pakistan",WILLOW CRICKET HD
+http://testing.denver1769.in/benj.php?id=14409
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/667.png" group-title="Pakistan",GEO SUPER͏͏͏
+http://testing.denver1769.in/benj.php?id=667
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/2777.png" group-title="Pakistan",PEACE TV ENGLISH
 http://testing.denver1769.in/benj.php?id=3143
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/755.png" group-title="Banjo",CARTOON NETWORK HINDI
-http://testing.denver1769.in/benj.php?id=755
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/769.png" group-title="Banjo",SONIC
-http://testing.denver1769.in/benj.php?id=769
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/794.png" group-title="Banjo",HUNGAMA
-http://testing.denver1769.in/benj.php?id=794
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/821.png" group-title="Banjo",POGO
-http://testing.denver1769.in/benj.php?id=821
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/686.png" group-title="Banjo",CHU CHU TV 1 HD
-http://testing.denver1769.in/benj.php?id=686
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/681.png" group-title="Banjo",CHU CHU TV 2 HD
-http://testing.denver1769.in/benj.php?id=681
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/688.png" group-title="Banjo",PAW PETROL 1 HD
-http://testing.denver1769.in/benj.php?id=688
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/690.png" group-title="Banjo",PAWPETROL 2 HD
-http://testing.denver1769.in/benj.php?id=690
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/710.png" group-title="Banjo",PEPPA PIG 1 HD
-http://testing.denver1769.in/benj.php?id=710
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/703.png" group-title="Banjo",PEPPA PIG 2 HD
-http://testing.denver1769.in/benj.php?id=703
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/711.png" group-title="Banjo",PJ MASKS 1 HD
-http://testing.denver1769.in/benj.php?id=711
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/726.png" group-title="Banjo",PJ MASKS 2 HD
-http://testing.denver1769.in/benj.php?id=726
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/716.png" group-title="Banjo",NURSERY RHYMES HD
-http://testing.denver1769.in/benj.php?id=716
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/701.png" group-title="Banjo",BABIES RHYMES HD
-http://testing.denver1769.in/benj.php?id=701
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/679.png" group-title="Banjo",LITTLE BABY BUM 1 HD
-http://testing.denver1769.in/benj.php?id=679
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/684.png" group-title="Banjo",LITTLE BABY BUM 2 HD
-http://testing.denver1769.in/benj.php?id=684
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/685.png" group-title="Banjo",BABY TV
-http://testing.denver1769.in/benj.php?id=685
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/697.png" group-title="Banjo",BABY BUS  1 HD
-http://testing.denver1769.in/benj.php?id=697
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/695.png" group-title="Banjo",BABY BUS 2 HD
-http://testing.denver1769.in/benj.php?id=695
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/698.png" group-title="Banjo",CARTOON NETWORK HD
-http://testing.denver1769.in/benj.php?id=698
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/702.png" group-title="Banjo",DISNEY JUNIOR HD USA
-http://testing.denver1769.in/benj.php?id=702
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/705.png" group-title="Banjo",DISNEY JUNIOR HD
-http://testing.denver1769.in/benj.php?id=705
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/722.png" group-title="Banjo",DISNEY CHANNEL HD USA
-http://testing.denver1769.in/benj.php?id=722
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/717.png" group-title="Banjo",DISNEY CHANNEL HD
-http://testing.denver1769.in/benj.php?id=717
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/724.png" group-title="Banjo",DISNEY XD HD USA
-http://testing.denver1769.in/benj.php?id=724
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/678.png" group-title="Banjo",DISNEY XD HD
-http://testing.denver1769.in/benj.php?id=678
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/676.png" group-title="Banjo",DISNEY HD INTERNATIONAL
-http://testing.denver1769.in/benj.php?id=676
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/680.png" group-title="Banjo",NICK HD USA
-http://testing.denver1769.in/benj.php?id=680
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/687.png" group-title="Banjo",NICKTOON HD USA
-http://testing.denver1769.in/benj.php?id=687
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/689.png" group-title="Banjo",NICKLODEN HD USA
-http://testing.denver1769.in/benj.php?id=689
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/694.png" group-title="Banjo",NICK JUNIOR HD USA
-http://testing.denver1769.in/benj.php?id=694
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/709.png" group-title="Banjo",NICK HD PLUS
-http://testing.denver1769.in/benj.php?id=709
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/700.png" group-title="Banjo",NICK JR TOO
-http://testing.denver1769.in/benj.php?id=700
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/708.png" group-title="Banjo",DISCOVERY KIDS HD
-http://testing.denver1769.in/benj.php?id=708
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/706.png" group-title="Banjo",TELE TOON HD
-http://testing.denver1769.in/benj.php?id=706
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/713.png" group-title="Banjo",TREE HOUSE HD
-http://testing.denver1769.in/benj.php?id=713
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/715.png" group-title="Banjo",YTV HD
-http://testing.denver1769.in/benj.php?id=715
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/719.png" group-title="Banjo",FAMILY HD
-http://testing.denver1769.in/benj.php?id=719
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/677.png" group-title="Banjo",FAMILY JR HD
-http://testing.denver1769.in/benj.php?id=677
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/682.png" group-title="Banjo",FAMILY CAHRGD HD
-http://testing.denver1769.in/benj.php?id=682
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/683.png" group-title="Banjo",TVO KIDS HD
-http://testing.denver1769.in/benj.php?id=683
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/693.png" group-title="Banjo",PBS KIDS HD
-http://testing.denver1769.in/benj.php?id=693
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/691.png" group-title="Banjo",TOM & JERRY HD
-http://testing.denver1769.in/benj.php?id=691
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/692.png" group-title="Banjo",SKY CINEMA DISNEY HD
-http://testing.denver1769.in/benj.php?id=692
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/696.png" group-title="Banjo",SKY CIEMA FAMILY HD
-http://testing.denver1769.in/benj.php?id=696
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/699.png" group-title="Banjo",DISNEY CHANNEL UK
-http://testing.denver1769.in/benj.php?id=699
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/704.png" group-title="Banjo",NICK JR UK
-http://testing.denver1769.in/benj.php?id=704
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/707.png" group-title="Banjo",DISNEY JR UK
-http://testing.denver1769.in/benj.php?id=707
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/712.png" group-title="Banjo",DISNEY XD UK
-http://testing.denver1769.in/benj.php?id=712
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/714.png" group-title="Banjo",BOOMERANG UK
-http://testing.denver1769.in/benj.php?id=714
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/718.png" group-title="Banjo",CARTOON NETWORK UK
-http://testing.denver1769.in/benj.php?id=718
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/720.png" group-title="Banjo",RTE JR
-http://testing.denver1769.in/benj.php?id=720
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/728.png" group-title="Banjo",BBC CBEEBIES HD
-http://testing.denver1769.in/benj.php?id=728
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/721.png" group-title="Banjo",NICK JR INDIA
-http://testing.denver1769.in/benj.php?id=721
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/723.png" group-title="Banjo",NIKELODEN INDIA
-http://testing.denver1769.in/benj.php?id=723
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/725.png" group-title="Banjo",POGO INDIA
-http://testing.denver1769.in/benj.php?id=725
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/731.png" group-title="Banjo",CARTOON NETWORK INDIA
-http://testing.denver1769.in/benj.php?id=731
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/729.png" group-title="Banjo",DISNEY CLASSIC
-http://testing.denver1769.in/benj.php?id=729
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/727.png" group-title="Banjo",LEGO MOVIES
-http://testing.denver1769.in/benj.php?id=727
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/734.png" group-title="Banjo",KIDS MOVIES
-http://testing.denver1769.in/benj.php?id=734
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/733.png" group-title="Banjo",STAR WAR
-http://testing.denver1769.in/benj.php?id=733
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/732.png" group-title="Banjo",INSPECTOR GADGET
-http://testing.denver1769.in/benj.php?id=732
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/730.png" group-title="Banjo",POKEMON
-http://testing.denver1769.in/benj.php?id=730
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/743.png" group-title="Banjo",MOVIES 2
-http://testing.denver1769.in/benj.php?id=743
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/897.png" group-title="Banjo",STAR GOLD SELECT HD
-http://testing.denver1769.in/benj.php?id=897
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/946.png" group-title="Banjo",STAR GOLD HD
-http://testing.denver1769.in/benj.php?id=946
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/778.png" group-title="Banjo",SONY TV HD
-http://testing.denver1769.in/benj.php?id=778
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/802.png" group-title="Banjo",SONY TV HD.
-http://testing.denver1769.in/benj.php?id=802
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/878.png" group-title="Banjo",STAR PLUS HD
-http://testing.denver1769.in/benj.php?id=878
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/919.png" group-title="Banjo",STAR PLUS HD.
-http://testing.denver1769.in/benj.php?id=919
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/968.png" group-title="Banjo",STAR BHARAT HD
-http://testing.denver1769.in/benj.php?id=968
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/759.png" group-title="Banjo",COLORS HD
-http://testing.denver1769.in/benj.php?id=759
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/782.png" group-title="Banjo",COLORS HD.
-http://testing.denver1769.in/benj.php?id=782
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/855.png" group-title="Banjo",ZEE TV HD
-http://testing.denver1769.in/benj.php?id=855
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/882.png" group-title="Banjo",ZEE TV HD.
-http://testing.denver1769.in/benj.php?id=882
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/926.png" group-title="Banjo",SAB HD USA
-http://testing.denver1769.in/benj.php?id=926
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/932.png" group-title="Banjo",SAB HD
-http://testing.denver1769.in/benj.php?id=932
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/956.png" group-title="Banjo",SONY MAX USA HD
-http://testing.denver1769.in/benj.php?id=956
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/980.png" group-title="Banjo",SONY MAX
-http://testing.denver1769.in/benj.php?id=980
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/763.png" group-title="Banjo",& TV HD USA
-http://testing.denver1769.in/benj.php?id=763
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/809.png" group-title="Banjo",& TV HD
-http://testing.denver1769.in/benj.php?id=809
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/806.png" group-title="Banjo",& TV HD.
-http://testing.denver1769.in/benj.php?id=806
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/830.png" group-title="Banjo",RISHTEY USA
-http://testing.denver1769.in/benj.php?id=830
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/854.png" group-title="Banjo",TV ASIA USA
-http://testing.denver1769.in/benj.php?id=854
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/881.png" group-title="Banjo",ZEE CINEMA HD USA
-http://testing.denver1769.in/benj.php?id=881
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/916.png" group-title="Banjo",ZEE CINEMA HD
-http://testing.denver1769.in/benj.php?id=916
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/933.png" group-title="Banjo",CINEPLEX HD USA
-http://testing.denver1769.in/benj.php?id=933
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/957.png" group-title="Banjo",CINEPLEX HD
-http://testing.denver1769.in/benj.php?id=957
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/739.png" group-title="Banjo",AND MOVIES HD USA
-http://testing.denver1769.in/benj.php?id=739
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/761.png" group-title="Banjo",AND MOVIES HD
-http://testing.denver1769.in/benj.php?id=761
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/789.png" group-title="Banjo",UTV MOVIES HD USA
-http://testing.denver1769.in/benj.php?id=789
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/823.png" group-title="Banjo",UTV MOVIES HD
-http://testing.denver1769.in/benj.php?id=823
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/831.png" group-title="Banjo",ZEE THEATRE HD
-http://testing.denver1769.in/benj.php?id=831
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/858.png" group-title="Banjo",BOLLYWOOD PREMIERE HD
-http://testing.denver1769.in/benj.php?id=858
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/883.png" group-title="Banjo",MINI PLEX HD
-http://testing.denver1769.in/benj.php?id=883
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/907.png" group-title="Banjo",TRAVEL XP HINDI HD
-http://testing.denver1769.in/benj.php?id=907
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/929.png" group-title="Banjo",FOX LIFE HINDI HD
-http://testing.denver1769.in/benj.php?id=929
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/955.png" group-title="Banjo",NATGEO WILD HINDI HD
-http://testing.denver1769.in/benj.php?id=955
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/981.png" group-title="Banjo",NATGEO HINDI HD
-http://testing.denver1769.in/benj.php?id=981
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/756.png" group-title="Banjo",DISCOVERY HINDI HD
-http://testing.denver1769.in/benj.php?id=756
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/781.png" group-title="Banjo",ANIMAL PLANET HINDI HD
-http://testing.denver1769.in/benj.php?id=781
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/812.png" group-title="Banjo",HISTORY TV18 HINDI HD
-http://testing.denver1769.in/benj.php?id=812
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/833.png" group-title="Banjo",BBC EARTH HINDI HD
-http://testing.denver1769.in/benj.php?id=833
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/871.png" group-title="Banjo",LIVING FOODZ HD
-http://testing.denver1769.in/benj.php?id=871
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/890.png" group-title="Banjo",FOOD FOOD HD
-http://testing.denver1769.in/benj.php?id=890
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/913.png" group-title="Banjo",ZEE LIVING HD
-http://testing.denver1769.in/benj.php?id=913
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/939.png" group-title="Banjo",AAJ TAK HD
-http://testing.denver1769.in/benj.php?id=939
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/973.png" group-title="Banjo",TIMES NOW HD
-http://testing.denver1769.in/benj.php?id=973
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/771.png" group-title="Banjo",REPUBLIC TV HD
-http://testing.denver1769.in/benj.php?id=771
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/766.png" group-title="Banjo",CNBC TV18 PRIME HD
-http://testing.denver1769.in/benj.php?id=766
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/793.png" group-title="Banjo",INDIA TODAY
-http://testing.denver1769.in/benj.php?id=793
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/818.png" group-title="Banjo",NEWS 18 INDIA
-http://testing.denver1769.in/benj.php?id=818
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/847.png" group-title="Banjo",ZEE NEWS
-http://testing.denver1769.in/benj.php?id=847
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/869.png" group-title="Banjo",NDTV 24X7
-http://testing.denver1769.in/benj.php?id=869
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/895.png" group-title="Banjo",NDTV GOOD TIMES
-http://testing.denver1769.in/benj.php?id=895
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/918.png" group-title="Banjo",NDTV INDIA
-http://testing.denver1769.in/benj.php?id=918
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/941.png" group-title="Banjo",NDTV PRIME
-http://testing.denver1769.in/benj.php?id=941
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/969.png" group-title="Banjo",DD NEWS
-http://testing.denver1769.in/benj.php?id=969
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/747.png" group-title="Banjo",TEZ NEWS
-http://testing.denver1769.in/benj.php?id=747
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/774.png" group-title="Banjo",ABP NEWS
-http://testing.denver1769.in/benj.php?id=774
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/800.png" group-title="Banjo",ABP NEWS INTERNATIONAL
-http://testing.denver1769.in/benj.php?id=800
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/824.png" group-title="Banjo",DELHI AAJ TAK
-http://testing.denver1769.in/benj.php?id=824
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/856.png" group-title="Banjo",ZING TV
-http://testing.denver1769.in/benj.php?id=856
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/875.png" group-title="Banjo",ZING TV USA
-http://testing.denver1769.in/benj.php?id=875
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/899.png" group-title="Banjo",B4U MOVIES
-http://testing.denver1769.in/benj.php?id=899
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/922.png" group-title="Banjo",B4U+
-http://testing.denver1769.in/benj.php?id=922
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/953.png" group-title="Banjo",B4U AFLAM
-http://testing.denver1769.in/benj.php?id=953
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/984.png" group-title="Banjo",MOVIES OK
-http://testing.denver1769.in/benj.php?id=984
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/752.png" group-title="Banjo",UTVACTION
-http://testing.denver1769.in/benj.php?id=752
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/783.png" group-title="Banjo",UTV MOVIES INTERNATIONAL
-http://testing.denver1769.in/benj.php?id=783
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/804.png" group-title="Banjo",ZEE ACTION
-http://testing.denver1769.in/benj.php?id=804
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/832.png" group-title="Banjo",MOVIES ACTIVE
-http://testing.denver1769.in/benj.php?id=832
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/0000.png" group-title="Banjo",SHORT FILM HINDI
-http://testing.denver1769.in/benj.php?id=851
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/879.png" group-title="Banjo",BBO HD
-http://testing.denver1769.in/benj.php?id=879
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/905.png" group-title="Banjo",STAR UTSAV
-http://testing.denver1769.in/benj.php?id=905
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/927.png" group-title="Banjo",SONY MAX2
-http://testing.denver1769.in/benj.php?id=927
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/950.png" group-title="Banjo",SONY MIX
-http://testing.denver1769.in/benj.php?id=950
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/977.png" group-title="Banjo",SONY WAH
-http://testing.denver1769.in/benj.php?id=977
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/757.png" group-title="Banjo",D2H CINE ACTIVE HD
-http://testing.denver1769.in/benj.php?id=757
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/797.png" group-title="Banjo",ZEE BOLLYWOOD HD
-http://testing.denver1769.in/benj.php?id=797
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/810.png" group-title="Banjo",MBC BOLLYWOOD
-http://testing.denver1769.in/benj.php?id=810
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/834.png" group-title="Banjo",ENTER 10
-http://testing.denver1769.in/benj.php?id=834
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/864.png" group-title="Banjo",BIG MAGIC HD
-http://testing.denver1769.in/benj.php?id=864
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/886.png" group-title="Banjo",MANORANJAN TV
-http://testing.denver1769.in/benj.php?id=886
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/908.png" group-title="Banjo",HOUSEFULL MOVIES
-http://testing.denver1769.in/benj.php?id=908
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/948.png" group-title="Banjo",HOUSEFULL ACTION
-http://testing.denver1769.in/benj.php?id=948
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/954.png" group-title="Banjo",MAHA MOVIES
-http://testing.denver1769.in/benj.php?id=954
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/982.png" group-title="Banjo",WOW CINEMA
-http://testing.denver1769.in/benj.php?id=982
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/758.png" group-title="Banjo",ZEE ETC HD
-http://testing.denver1769.in/benj.php?id=758
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/784.png" group-title="Banjo",FILMY TV
-http://testing.denver1769.in/benj.php?id=784
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/807.png" group-title="Banjo",DANGAL
-http://testing.denver1769.in/benj.php?id=807
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/848.png" group-title="Banjo",BINDAS TV
-http://testing.denver1769.in/benj.php?id=848
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/860.png" group-title="Banjo",MOVIE HOUSE
-http://testing.denver1769.in/benj.php?id=860
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/902.png" group-title="Banjo",SAHARA ONE
-http://testing.denver1769.in/benj.php?id=902
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/915.png" group-title="Banjo",RAJYA SABHA
-http://testing.denver1769.in/benj.php?id=915
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/949.png" group-title="Banjo",LOGA SABHA
-http://testing.denver1769.in/benj.php?id=949
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/961.png" group-title="Banjo",DNN
-http://testing.denver1769.in/benj.php?id=961
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/740.png" group-title="Banjo",APN
-http://testing.denver1769.in/benj.php?id=740
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/762.png" group-title="Banjo",ZEE BUSINESS
-http://testing.denver1769.in/benj.php?id=762
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/787.png" group-title="Banjo",ZEE HINDUSTAN
-http://testing.denver1769.in/benj.php?id=787
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/827.png" group-title="Banjo",NEWS18 INDIA UK
-http://testing.denver1769.in/benj.php?id=827
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/838.png" group-title="Banjo",NEWS24
-http://testing.denver1769.in/benj.php?id=838
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/866.png" group-title="Banjo",IBN 7
-http://testing.denver1769.in/benj.php?id=866
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/888.png" group-title="Banjo",HNN 24X7
-http://testing.denver1769.in/benj.php?id=888
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/912.png" group-title="Banjo",DD NATIONAL
-http://testing.denver1769.in/benj.php?id=912
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/937.png" group-title="Banjo",SAMAY MP
-http://testing.denver1769.in/benj.php?id=937
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/959.png" group-title="Banjo",SAMAY RAJASTHAN
-http://testing.denver1769.in/benj.php?id=959
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/744.png" group-title="Banjo",SAMAY UP
-http://testing.denver1769.in/benj.php?id=744
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/764.png" group-title="Banjo",SAMAY MAHARASHTRA
-http://testing.denver1769.in/benj.php?id=764
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/790.png" group-title="Banjo",SAMAY NATIONAL
-http://testing.denver1769.in/benj.php?id=790
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/817.png" group-title="Banjo",SAMAY AALAMI
-http://testing.denver1769.in/benj.php?id=817
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/839.png" group-title="Banjo",SAMAY BIHAR
-http://testing.denver1769.in/benj.php?id=839
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/863.png" group-title="Banjo",INDIA NEWS
-http://testing.denver1769.in/benj.php?id=863
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/885.png" group-title="Banjo",INH
-http://testing.denver1769.in/benj.php?id=885
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/911.png" group-title="Banjo",SANDESH NEWS
-http://testing.denver1769.in/benj.php?id=911
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/935.png" group-title="Banjo",INDIA VOICE
-http://testing.denver1769.in/benj.php?id=935
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/967.png" group-title="Banjo",NEWS 11
-http://testing.denver1769.in/benj.php?id=967
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/737.png" group-title="Banjo",NEWS 9
-http://testing.denver1769.in/benj.php?id=737
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/780.png" group-title="Banjo",NEWS TIME TV
-http://testing.denver1769.in/benj.php?id=780
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/788.png" group-title="Banjo",NEWS WORLD
-http://testing.denver1769.in/benj.php?id=788
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/814.png" group-title="Banjo",NATIONAL VOICE
-http://testing.denver1769.in/benj.php?id=814
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/840.png" group-title="Banjo",SADHNA PLUS NEWS
-http://testing.denver1769.in/benj.php?id=840
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/862.png" group-title="Banjo",JANTA TV
-http://testing.denver1769.in/benj.php?id=862
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/892.png" group-title="Banjo",NEWS NATION
-http://testing.denver1769.in/benj.php?id=892
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/920.png" group-title="Banjo",SUDARSHAN NEWS
-http://testing.denver1769.in/benj.php?id=920
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/951.png" group-title="Banjo",SADHNA CHANNEL
-http://testing.denver1769.in/benj.php?id=951
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/979.png" group-title="Banjo",NEW VISION TV
-http://testing.denver1769.in/benj.php?id=979
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/748.png" group-title="Banjo",SADHNA NEWS
-http://testing.denver1769.in/benj.php?id=748
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/779.png" group-title="Banjo",JAN TANTRA TV
-http://testing.denver1769.in/benj.php?id=779
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/795.png" group-title="Banjo",JANO DUNIYA
-http://testing.denver1769.in/benj.php?id=795
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/819.png" group-title="Banjo",IBC 24
-http://testing.denver1769.in/benj.php?id=819
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/843.png" group-title="Banjo",INDIA TV
-http://testing.denver1769.in/benj.php?id=843
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/868.png" group-title="Banjo",CHANNEL WIN
-http://testing.denver1769.in/benj.php?id=868
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/921.png" group-title="Banjo",CHANNEL ONE NEWS
-http://testing.denver1769.in/benj.php?id=921
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/944.png" group-title="Banjo",HINDI KHABAR
-http://testing.denver1769.in/benj.php?id=944
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/971.png" group-title="Banjo",STV HARYANA NEWS
-http://testing.denver1769.in/benj.php?id=971
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/746.png" group-title="Banjo",SURYA SAMACHAR
-http://testing.denver1769.in/benj.php?id=746
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/799.png" group-title="Banjo",TV 1 INDIA
-http://testing.denver1769.in/benj.php?id=799
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/822.png" group-title="Banjo",KANSHI TV
-http://testing.denver1769.in/benj.php?id=822
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/857.png" group-title="Banjo",BHASKAR NEWS
-http://testing.denver1769.in/benj.php?id=857
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/873.png" group-title="Banjo",NEWS STATE MP
-http://testing.denver1769.in/benj.php?id=873
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/904.png" group-title="Banjo",NEWS 1
-http://testing.denver1769.in/benj.php?id=904
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/923.png" group-title="Banjo",PRIME NEWS
-http://testing.denver1769.in/benj.php?id=923
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/947.png" group-title="Banjo",SWARAJ EXPRESS SMBC
-http://testing.denver1769.in/benj.php?id=947
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/972.png" group-title="Banjo",ET NOW
-http://testing.denver1769.in/benj.php?id=972
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/754.png" group-title="Banjo",E24
-http://testing.denver1769.in/benj.php?id=754
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/776.png" group-title="Banjo",SAHARA SAMAY
-http://testing.denver1769.in/benj.php?id=776
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/803.png" group-title="Banjo",AASTHA TV
-http://testing.denver1769.in/benj.php?id=803
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/825.png" group-title="Banjo",AASTHA TV USA
-http://testing.denver1769.in/benj.php?id=4061
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/849.png" group-title="Banjo",AASTHA BHAJAN
-http://testing.denver1769.in/benj.php?id=849
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/874.png" group-title="Banjo",AASTHA UK
-http://testing.denver1769.in/benj.php?id=874
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/898.png" group-title="Banjo",SAMAY
-http://testing.denver1769.in/benj.php?id=898
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/925.png" group-title="Banjo",EPIC
-http://testing.denver1769.in/benj.php?id=925
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/960.png" group-title="Banjo",SANSKAR TV
-http://testing.denver1769.in/benj.php?id=960
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/986.png" group-title="Banjo",DIVYA TV
-http://testing.denver1769.in/benj.php?id=986
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/777.png" group-title="Banjo",MANGALMAY TV
-http://testing.denver1769.in/benj.php?id=777
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/801.png" group-title="Banjo",ARIHANT TV
-http://testing.denver1769.in/benj.php?id=801
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/829.png" group-title="Banjo",ADHYATM
-http://testing.denver1769.in/benj.php?id=829
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/853.png" group-title="Banjo",BHAKTI SAGAR
-http://testing.denver1769.in/benj.php?id=853
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/880.png" group-title="Banjo",BHARAT SAMACHAR
-http://testing.denver1769.in/benj.php?id=880
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/901.png" group-title="Banjo",SHRADDHA MH 1
-http://testing.denver1769.in/benj.php?id=901
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/940.png" group-title="Banjo",SHUBH TV
-http://testing.denver1769.in/benj.php?id=940
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/963.png" group-title="Banjo",DIVYA
-http://testing.denver1769.in/benj.php?id=963
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/742.png" group-title="Banjo",JUS 24X7
-http://testing.denver1769.in/benj.php?id=742
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/768.png" group-title="Banjo",CARE WORLD TV USA
-http://testing.denver1769.in/benj.php?id=768
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/815.png" group-title="Banjo",DASH TV
-http://testing.denver1769.in/benj.php?id=815
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/846.png" group-title="Banjo",KIRSHAN BHAJANS HD
-http://testing.denver1769.in/benj.php?id=846
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/865.png" group-title="Banjo",MATA KI BETEIN  HD
-http://testing.denver1769.in/benj.php?id=865
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/887.png" group-title="Banjo",BHAJAN SRI RAM HD
-http://testing.denver1769.in/benj.php?id=887
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/909.png" group-title="Banjo",DEVI BHAJANS HD
-http://testing.denver1769.in/benj.php?id=909
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/942.png" group-title="Banjo",GANESH BHAJANS HD
-http://testing.denver1769.in/benj.php?id=942
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/962.png" group-title="Banjo",MTV BEATS HD
-http://testing.denver1769.in/benj.php?id=962
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/741.png" group-title="Banjo",MTV PLUS HD
-http://testing.denver1769.in/benj.php?id=741
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/785.png" group-title="Banjo",MUSIC INDIA
-http://testing.denver1769.in/benj.php?id=785
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/811.png" group-title="Banjo",MUSIC EXPRESS
-http://testing.denver1769.in/benj.php?id=811
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/841.png" group-title="Banjo",ZOOM
-http://testing.denver1769.in/benj.php?id=841
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/861.png" group-title="Banjo",8XM
-http://testing.denver1769.in/benj.php?id=861
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/884.png" group-title="Banjo",9XO
-http://testing.denver1769.in/benj.php?id=884
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/910.png" group-title="Banjo",DHOOM
-http://testing.denver1769.in/benj.php?id=910
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/931.png" group-title="Banjo",9X JALWA
-http://testing.denver1769.in/benj.php?id=931
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/958.png" group-title="Banjo",9XM
-http://testing.denver1769.in/benj.php?id=958
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/985.png" group-title="Banjo",MUSIC 4U
-http://testing.denver1769.in/benj.php?id=985
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/767.png" group-title="Banjo",B4U MUSIC
-http://testing.denver1769.in/benj.php?id=767
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/786.png" group-title="Banjo",MASTII
-http://testing.denver1769.in/benj.php?id=786
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/813.png" group-title="Banjo",SONY PIX HD
-http://testing.denver1769.in/benj.php?id=813
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/837.png" group-title="Banjo",& FLIX HD
-http://testing.denver1769.in/benj.php?id=837
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/870.png" group-title="Banjo",& PRIVE HD
-http://testing.denver1769.in/benj.php?id=870
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/893.png" group-title="Banjo",COLORS INFINITY HD
-http://testing.denver1769.in/benj.php?id=893
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/988.png" group-title="Banjo",TCL HD͏͏͏͏͏͏͏͏͏
-http://testing.denver1769.in/benj.php?id=988
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/934.png" group-title="Banjo",ZEE CAFÉ HD
-http://testing.denver1769.in/benj.php?id=934
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/952.png" group-title="Banjo",MN+ HD
-http://testing.denver1769.in/benj.php?id=952
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/976.png" group-title="Banjo",MNX2 HD
-http://testing.denver1769.in/benj.php?id=976
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/753.png" group-title="Banjo",MOVIES NOW HD
-http://testing.denver1769.in/benj.php?id=753
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/775.png" group-title="Banjo",ROMEDY NOW HD
-http://testing.denver1769.in/benj.php?id=775
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/798.png" group-title="Banjo",STAR MOVIES HD
-http://testing.denver1769.in/benj.php?id=798
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/828.png" group-title="Banjo",STAR MOVIES SELECT HD
-http://testing.denver1769.in/benj.php?id=828
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/850.png" group-title="Banjo",STAR WORLD HD
-http://testing.denver1769.in/benj.php?id=850
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/876.png" group-title="Banjo",AXN HD
-http://testing.denver1769.in/benj.php?id=876
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/928.png" group-title="Banjo",DABANGG
-http://testing.denver1769.in/benj.php?id=928
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/965.png" group-title="Banjo",SONY PAL
-http://testing.denver1769.in/benj.php?id=965
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/974.png" group-title="Banjo",DESIPLAZA TV
-http://testing.denver1769.in/benj.php?id=974
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/844.png" group-title="Banjo",ETMAX_HD
-http://testing.denver1769.in/benj.php?id=844
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/900.png" group-title="Banjo",STAR PLUS UK
-http://testing.denver1769.in/benj.php?id=900
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/924.png" group-title="Banjo",SONY TV UK
-http://testing.denver1769.in/benj.php?id=924
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/945.png" group-title="Banjo",SAB UK
-http://testing.denver1769.in/benj.php?id=945
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/970.png" group-title="Banjo",SONY MAX HD UK
-http://testing.denver1769.in/benj.php?id=970
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/750.png" group-title="Banjo",ZEE TV UK
-http://testing.denver1769.in/benj.php?id=750
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/773.png" group-title="Banjo",STAR BHARAT UK
-http://testing.denver1769.in/benj.php?id=773
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/796.png" group-title="Banjo",COLORS UK
-http://testing.denver1769.in/benj.php?id=796
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/826.png" group-title="Banjo",RISHTEY EURO
-http://testing.denver1769.in/benj.php?id=826
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/859.png" group-title="Banjo",ZING TV UK
-http://testing.denver1769.in/benj.php?id=859
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/903.png" group-title="Banjo",STAR GOLD UK
-http://testing.denver1769.in/benj.php?id=903
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/896.png" group-title="Banjo",B4U MUSIC UK
-http://testing.denver1769.in/benj.php?id=896
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/917.png" group-title="Banjo",B4U MOVIES UK
-http://testing.denver1769.in/benj.php?id=917
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/943.png" group-title="Banjo",ZEECINEMA UK
-http://testing.denver1769.in/benj.php?id=943
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/966.png" group-title="Banjo",ZEE CINEMA AUS
-http://testing.denver1769.in/benj.php?id=966
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/745.png" group-title="Banjo",STAR PLUS HD AUS
-http://testing.denver1769.in/benj.php?id=745
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/0000.png" group-title="Banjo",SONY TV HD AUS
-http://testing.denver1769.in/benj.php?id=772
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/808.png" group-title="Banjo",SAB TV AUS
-http://testing.denver1769.in/benj.php?id=808
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/820.png" group-title="Banjo",STAR BHARAT HD AUS
-http://testing.denver1769.in/benj.php?id=820
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/842.png" group-title="Banjo",COLORS HD AUS
-http://testing.denver1769.in/benj.php?id=842
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/867.png" group-title="Banjo",ZEE TV USA - WEST
-http://testing.denver1769.in/benj.php?id=867
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/891.png" group-title="Banjo",SONY HD USA WEST
-http://testing.denver1769.in/benj.php?id=891
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/914.png" group-title="Banjo",STAR PLUS USA WEST
-http://testing.denver1769.in/benj.php?id=914
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/938.png" group-title="Banjo",AAPKA COLORS HD USA WEST
-http://testing.denver1769.in/benj.php?id=938
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/964.png" group-title="Banjo",STAR BHARAT USA WEST
-http://testing.denver1769.in/benj.php?id=964
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/983.png" group-title="Banjo",RISHTAY USA WEST
-http://testing.denver1769.in/benj.php?id=983
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/987.png" group-title="Banjo",SONY SAB WEST
-http://testing.denver1769.in/benj.php?id=987
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",DISCOVERY SHOWCASE PT
-http://testing.denver1769.in/benj.php?id=1720
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",DISCOVERY PT
-http://testing.denver1769.in/benj.php?id=1711
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",NAT GEO PT
-http://testing.denver1769.in/benj.php?id=1691
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",NAT GEO WILD PT
-http://testing.denver1769.in/benj.php?id=1702
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",TVI 24 PT
-http://testing.denver1769.in/benj.php?id=1727
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",HISTORIA PT
-http://testing.denver1769.in/benj.php?id=1731
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",FOOD NETWORK PT
-http://testing.denver1769.in/benj.php?id=1633
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/2747.png" group-title="Banjo",MADANI CHANNEL BANGLA
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/2747.png" group-title="Pakistan",MADANI CHANNEL BANGLA
 http://testing.denver1769.in/benj.php?id=2748
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/2810.png" group-title="Banjo",DBC NEWS
-http://testing.denver1769.in/benj.php?id=2811
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/2828.png" group-title="Banjo",NEWS 24 HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/2828.png" group-title="Pakistan",NEWS 24 HD
 http://testing.denver1769.in/benj.php?id=2829
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/2830.png" group-title="Banjo",DESHI TV
-http://testing.denver1769.in/benj.php?id=2831
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/2770.png" group-title="Banjo",SANGEET BANGLA
-http://testing.denver1769.in/benj.php?id=2771
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/2835.png" group-title="Banjo",ASIAN TV
-http://testing.denver1769.in/benj.php?id=2836
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/2811.png" group-title="Banjo",DHOOM MUSIC
-http://testing.denver1769.in/benj.php?id=2812
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/2833.png" group-title="Banjo",RTV MUSIC
-http://testing.denver1769.in/benj.php?id=2834
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/2821.png" group-title="Banjo",RUPASILA
-http://testing.denver1769.in/benj.php?id=2822
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/2832.png" group-title="Banjo",DD BANGLA
-http://testing.denver1769.in/benj.php?id=2833
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/2750.png" group-title="Banjo",MOHONA
-http://testing.denver1769.in/benj.php?id=2751
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/2761.png" group-title="Banjo",GAAN BANGLA
-http://testing.denver1769.in/benj.php?id=2762
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/2775.png" group-title="Banjo",BANGLA TIMES
-http://testing.denver1769.in/benj.php?id=2776
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/2803.png" group-title="Banjo",ABP ANANDA
-http://testing.denver1769.in/benj.php?id=2804
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/2792.png" group-title="Banjo",24 GHANTA
-http://testing.denver1769.in/benj.php?id=2793
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/2840.png" group-title="Banjo",ETV
-http://testing.denver1769.in/benj.php?id=2841
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/2760.png" group-title="Banjo",TV ASIA.
-http://testing.denver1769.in/benj.php?id=2761
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/2795.png" group-title="Banjo",MADINA LIVE.
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/2795.png" group-title="Pakistan",MADINA LIVE.
 http://testing.denver1769.in/benj.php?id=2796
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/2805.png" group-title="Banjo",MAKKAH LIVE.
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/2805.png" group-title="Pakistan",MAKKAH LIVE.
 http://testing.denver1769.in/benj.php?id=2806
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/2820.png" group-title="Banjo",ALMAJD 1.
-http://testing.denver1769.in/benj.php?id=2821
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/2831.png" group-title="Banjo",SAUDI QURAN.
-http://testing.denver1769.in/benj.php?id=2832
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",AAP NEWS HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",AAP NEWS HD
 http://testing.denver1769.in/benj.php?id=3012
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",ROYAL NEWS HD
-http://testing.denver1769.in/benj.php?id=3013
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",ARY DIGITAL US
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",ARY DIGITAL US
 http://testing.denver1769.in/benj.php?id=3097
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",ARY MUSIC US
-http://testing.denver1769.in/benj.php?id=3123
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",ARY NEWS US
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",ARY NEWS US
 http://testing.denver1769.in/benj.php?id=3126
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",ARY NEWS
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",ARY NEWS
 http://testing.denver1769.in/benj.php?id=3135
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",ARY DIGITAL
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",ARY DIGITAL
 http://testing.denver1769.in/benj.php?id=3022
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",ARY DIGITAL UK
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",ARY DIGITAL UK
 http://testing.denver1769.in/benj.php?id=3041
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",ARY ZINDAGI
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",ARY ZINDAGI
 http://testing.denver1769.in/benj.php?id=3053
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",GEO NEWS US
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",GEO NEWS US
 http://testing.denver1769.in/benj.php?id=3075
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",GEO NEWS
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",GEO NEWS
 http://testing.denver1769.in/benj.php?id=3079
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",GEO ENT US
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",GEO ENT US
 http://testing.denver1769.in/benj.php?id=3088
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",GEO ENT
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",GEO ENT
 http://testing.denver1769.in/benj.php?id=3103
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",GEO KAHANI
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",GEO KAHANI
 http://testing.denver1769.in/benj.php?id=3114
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",HUM WORLD HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",HUM WORLD HD
 http://testing.denver1769.in/benj.php?id=3119
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",HUM SITARAY HD US
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",HUM SITARAY HD US
 http://testing.denver1769.in/benj.php?id=3133
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",HUM SITARAY
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",HUM SITARAY
 http://testing.denver1769.in/benj.php?id=3016
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",HUM TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",HUM TV HD
 http://testing.denver1769.in/benj.php?id=3027
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",HUM MASALA US
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",HUM MASALA US
 http://testing.denver1769.in/benj.php?id=3040
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",HUM MASALA
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",HUM MASALA
 http://testing.denver1769.in/benj.php?id=14389
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",HUM NEWS
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",HUM NEWS
 http://testing.denver1769.in/benj.php?id=3071
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",HUM EUROPE
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",HUM EUROPE
 http://testing.denver1769.in/benj.php?id=3083
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",LAHORE NEWS
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",LAHORE NEWS
 http://testing.denver1769.in/benj.php?id=3129
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",BOL NEWS
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",BOL NEWS
 http://testing.denver1769.in/benj.php?id=3144
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",BOL NEWS ENG
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",BOL NEWS ENG
 http://testing.denver1769.in/benj.php?id=3032
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",BOL MEDIA AZADI
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",BOL MEDIA AZADI
 http://testing.denver1769.in/benj.php?id=3033
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",GNN HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",GNN HD
 http://testing.denver1769.in/benj.php?id=3046
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",PAK NEWS HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",PAK NEWS HD
 http://testing.denver1769.in/benj.php?id=3058
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",92 NEWS HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",92 NEWS HD
 http://testing.denver1769.in/benj.php?id=3067
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",AAJ NEWS
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",AAJ NEWS
 http://testing.denver1769.in/benj.php?id=3081
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",AWAZ TV
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",AWAZ TV
 http://testing.denver1769.in/benj.php?id=3100
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",ARY QTV
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",ARY QTV
 http://testing.denver1769.in/benj.php?id=3108
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",ARY ZAUQ
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",ARY ZAUQ
 http://testing.denver1769.in/benj.php?id=3127
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",QIAM
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",QIAM
 http://testing.denver1769.in/benj.php?id=3132
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",AAJ ENTERTAINMENT
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",AAJ ENTERTAINMENT
 http://testing.denver1769.in/benj.php?id=14392
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",DUNYA NEWS
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",DUNYA NEWS
 http://testing.denver1769.in/benj.php?id=3025
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",GEO TEZZ
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",GEO TEZZ
 http://testing.denver1769.in/benj.php?id=3036
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",PUBLIC NEWS
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",PUBLIC NEWS
 http://testing.denver1769.in/benj.php?id=3050
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",TV ONE
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",TV ONE
 http://testing.denver1769.in/benj.php?id=3064
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",TV ONE GLOBAL
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",TV ONE GLOBAL
 http://testing.denver1769.in/benj.php?id=3076
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",DAWN NEWS
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",DAWN NEWS
 http://testing.denver1769.in/benj.php?id=3085
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",24 NEWS
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",24 NEWS
 http://testing.denver1769.in/benj.php?id=3098
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",SEE TV
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",SEE TV
 http://testing.denver1769.in/benj.php?id=3113
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",DIN NEWS
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",DIN NEWS
 http://testing.denver1769.in/benj.php?id=3121
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",APLUS
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",APLUS
 http://testing.denver1769.in/benj.php?id=3138
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",EXPRESS ENT
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",EXPRESS ENT
 http://testing.denver1769.in/benj.php?id=3020
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",EXPRESS NEWS
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",EXPRESS NEWS
 http://testing.denver1769.in/benj.php?id=3031
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",CITY41
-http://testing.denver1769.in/benj.php?id=3042
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",CITY42
-http://testing.denver1769.in/benj.php?id=3054
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",CITY44UK
-http://testing.denver1769.in/benj.php?id=3074
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",AABTAK
-http://testing.denver1769.in/benj.php?id=3092
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",SAMAA NEWS
-http://testing.denver1769.in/benj.php?id=3099
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",CAPITAL TV
-http://testing.denver1769.in/benj.php?id=3105
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",HAMARA TV
-http://testing.denver1769.in/benj.php?id=3139
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",ZAIQA TV
-http://testing.denver1769.in/benj.php?id=3021
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",PTV WORLD
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",PTV WORLD
 http://testing.denver1769.in/benj.php?id=3034
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",PTV HOME
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",PTV HOME
 http://testing.denver1769.in/benj.php?id=3063
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",PTV NEWS
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",PTV NEWS
 http://testing.denver1769.in/benj.php?id=3060
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",PTV GLOBAL
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",PTV GLOBAL
 http://testing.denver1769.in/benj.php?id=3073
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",PTV NATIONAL
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",PTV NATIONAL
 http://testing.denver1769.in/benj.php?id=3087
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",NEWS ONE
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",NEWS ONE
 http://testing.denver1769.in/benj.php?id=3104
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",METRO NEWS
-http://testing.denver1769.in/benj.php?id=3130
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",KOHENOOR
-http://testing.denver1769.in/benj.php?id=3018
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",SUCH TV
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",SUCH TV
 http://testing.denver1769.in/benj.php?id=3047
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",URDU1
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",URDU1
 http://testing.denver1769.in/benj.php?id=3049
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",URDU1 EU
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",URDU1 EU
 http://testing.denver1769.in/benj.php?id=3077
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",GEO NEWS UK
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",GEO NEWS UK
 http://testing.denver1769.in/benj.php?id=3072
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",AVT KHYBER
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",AVT KHYBER
 http://testing.denver1769.in/benj.php?id=3086
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",KHYBER NEWS
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",KHYBER NEWS
 http://testing.denver1769.in/benj.php?id=3101
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",MADANI TV
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",MADANI TV
 http://testing.denver1769.in/benj.php?id=3122
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",SINDH TV
-http://testing.denver1769.in/benj.php?id=3125
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",SINDH NEWS
-http://testing.denver1769.in/benj.php?id=3141
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",CHANNEL 5
-http://testing.denver1769.in/benj.php?id=3023
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",MTA URDU
-http://testing.denver1769.in/benj.php?id=3037
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",MTA ARABIC
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",MTA ARABIC
 http://testing.denver1769.in/benj.php?id=3045
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",MTA
-http://testing.denver1769.in/benj.php?id=3059
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",QURAN TV
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",QURAN TV
 http://testing.denver1769.in/benj.php?id=3070
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",WASEEB
-http://testing.denver1769.in/benj.php?id=3084
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",KAY2 TV
-http://testing.denver1769.in/benj.php?id=3102
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",NEO NEWS
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",NEO NEWS
 http://testing.denver1769.in/benj.php?id=3117
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",7 NEWS
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",7 NEWS
 http://testing.denver1769.in/benj.php?id=3124
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",KTN NEWS
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",KTN NEWS
 http://testing.denver1769.in/benj.php?id=3137
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",GLOBAL NEWS
-http://testing.denver1769.in/benj.php?id=3038
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",BAQA TV
-http://testing.denver1769.in/benj.php?id=3028
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",ROZE NEWS
-http://testing.denver1769.in/benj.php?id=3039
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",MASHRIQ TV
-http://testing.denver1769.in/benj.php?id=3057
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",PAIGAM
-http://testing.denver1769.in/benj.php?id=3080
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",PAIGAM PUSHTO
-http://testing.denver1769.in/benj.php?id=3093
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",STAR ASIA NEWS
-http://testing.denver1769.in/benj.php?id=3107
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",NOOR TV
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",NOOR TV
 http://testing.denver1769.in/benj.php?id=3118
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",MEHRAN TV
-http://testing.denver1769.in/benj.php?id=3131
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",HADI TV
-http://testing.denver1769.in/benj.php?id=3140
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",HADI TV1
-http://testing.denver1769.in/benj.php?id=3024
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",HADI TV2
-http://testing.denver1769.in/benj.php?id=3035
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",HADI TV3
-http://testing.denver1769.in/benj.php?id=3048
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",HADI TV4
-http://testing.denver1769.in/benj.php?id=3061
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",HADI TV5
-http://testing.denver1769.in/benj.php?id=3069
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",HADI TV6
-http://testing.denver1769.in/benj.php?id=3082
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",SPORTS TREND TV
-http://testing.denver1769.in/benj.php?id=3096
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",METRO 1 NEWS
-http://testing.denver1769.in/benj.php?id=3110
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",TAG TV HD
-http://testing.denver1769.in/benj.php?id=3120
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",URDU TV TORONTO
-http://testing.denver1769.in/benj.php?id=3134
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",PAYAM TV
-http://testing.denver1769.in/benj.php?id=3019
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",TORONTO 360 ENT
-http://testing.denver1769.in/benj.php?id=3026
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",NJ DIGITAL HD
-http://testing.denver1769.in/benj.php?id=3043
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",BRIDGES TV
-http://testing.denver1769.in/benj.php?id=3051
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",PRIME CANADA
-http://testing.denver1769.in/benj.php?id=3065
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",DUA CHANNEL
-http://testing.denver1769.in/benj.php?id=3094
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",WATAN E MAA
-http://testing.denver1769.in/benj.php?id=3095
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",KTV ENTER
-http://testing.denver1769.in/benj.php?id=3109
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",ZEE SALAM
-http://testing.denver1769.in/benj.php?id=3112
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",BIBLE TV GLOBAL
-http://testing.denver1769.in/benj.php?id=3142
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",ALRA
-http://testing.denver1769.in/benj.php?id=3742
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",OTV GLOBAL
-http://testing.denver1769.in/benj.php?id=3747
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",BIBLE
-http://testing.denver1769.in/benj.php?id=3743
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",ZORINS MUSIC
-http://testing.denver1769.in/benj.php?id=3748
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",TV99 WORLD
-http://testing.denver1769.in/benj.php?id=3749
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",TV99
-http://testing.denver1769.in/benj.php?id=3744
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",JOYSTAR
-http://testing.denver1769.in/benj.php?id=3756
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",AL QASIM
-http://testing.denver1769.in/benj.php?id=3745
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Banjo",DISCOVERY PAKISTAN
-http://testing.denver1769.in/benj.php?id=3746
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=8
+#EXTINF:-1 tvg-id="8" tvg-logo="https://tatalogo.pages.dev/8.png" group-title="India",STAR Plus HD
+https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_257/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=578
+#EXTINF:-1 tvg-id="578" tvg-logo="https://tatalogo.pages.dev/578.png" group-title="India",&TV
+https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_196/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=63
+#EXTINF:-1 tvg-id="63" tvg-logo="https://tatalogo.pages.dev/63.png" group-title="India",Zee TV HD
+https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_258/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=15
+#EXTINF:-1 tvg-id="15" tvg-logo="https://tatalogo.pages.dev/15.png" group-title="India",SET HD
+https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_300/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=244
+#EXTINF:-1 tvg-id="244" tvg-logo="https://tatalogo.pages.dev/244.png" group-title="India",Star Bharat HD
+https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_411/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=559
+#EXTINF:-1 tvg-id="559" tvg-logo="https://tatalogo.pages.dev/559.png" group-title="India",SONY SAB
+https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_126/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=556
+#EXTINF:-1 tvg-id="556" tvg-logo="https://tatalogo.pages.dev/556.png" group-title="India",SET
+https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_125/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=48
+#EXTINF:-1 tvg-id="48" tvg-logo="https://tatalogo.pages.dev/48.png" group-title="India",SONY SAB HD
+https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_307/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=40
+#EXTINF:-1 tvg-id="40" tvg-logo="https://tatalogo.pages.dev/40.png" group-title="India",&tv HD
+https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_303/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=52
+#EXTINF:-1 tvg-id="52" tvg-logo="https://tatalogo.pages.dev/52.png" group-title="India",Colors HD
+https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_299/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=543
+#EXTINF:-1 tvg-id="543" tvg-logo="https://tatalogo.pages.dev/543.png" group-title="India",Colors
+https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_101/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=964
+#EXTINF:-1 tvg-id="964" tvg-logo="https://tatalogo.pages.dev/964.png" group-title="India",Tata Play Classic TV
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1790/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=557
+#EXTINF:-1 tvg-id="557" tvg-logo="https://tatalogo.pages.dev/557.png" group-title="India",Zee TV
+https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_182/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=142
+#EXTINF:-1 tvg-id="142" tvg-logo="https://tatalogo.pages.dev/142.png" group-title="India",UTV Bindass
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_103/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=633
+#EXTINF:-1 tvg-id="633" tvg-logo="https://tatalogo.pages.dev/633.png" group-title="India",Investigation Discovery
+https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_867/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=95
+#EXTINF:-1 tvg-id="95" tvg-logo="https://tatalogo.pages.dev/95.png" group-title="India",Tata Play Javed Akhtar
+https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_192/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=551
+#EXTINF:-1 tvg-id="551" tvg-logo="https://tatalogo.pages.dev/551.png" group-title="India",STAR Utsav
+https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_122/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=523
+#EXTINF:-1 tvg-id="523" tvg-logo="https://tatalogo.pages.dev/523.png" group-title="India",Zee Anmol
+https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_826/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=986
+#EXTINF:-1 tvg-id="986" tvg-logo="https://tatalogo.pages.dev/986.png" group-title="India",Tata Play Zindagi
+https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1813/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=438
+#EXTINF:-1 tvg-id="438" tvg-logo="https://tatalogo.pages.dev/438.png" group-title="India",Colors Rishtey
+https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_694/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=554
+#EXTINF:-1 tvg-id="554" tvg-logo="https://tatalogo.pages.dev/554.png" group-title="India",Sony Pal
+https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_193/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=54
+#EXTINF:-1 tvg-id="54" tvg-logo="https://tatalogo.pages.dev/54.png" group-title="India",The Q
+https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_274/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=297
+#EXTINF:-1 tvg-id="297" tvg-logo="https://tatalogo.pages.dev/297.png" group-title="India",Big Magic
+https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_476/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=51
+#EXTINF:-1 tvg-id="51" tvg-logo="https://tatalogo.pages.dev/51.png" group-title="India",Dangal
+https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_351/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=818
+#EXTINF:-1 tvg-id="818" tvg-logo="https://tatalogo.pages.dev/818.png" group-title="India",Shemaroo TV
+https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1114/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=180
+#EXTINF:-1 tvg-id="180" tvg-logo="https://tatalogo.pages.dev/180.png" group-title="India",Anjan TV
+https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_370/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=874
+#EXTINF:-1 tvg-id="874" tvg-logo="https://tatalogo.pages.dev/874.png" group-title="India",Deployment channel 19.0
+https://tataskyvod.pc.cdn.bitgravity.com/delta14/out/i/7976503.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=1045
+#EXTINF:-1 tvg-id="1045" tvg-logo="https://tatalogo.pages.dev/1045.png" group-title="India",Shemaroo UMANG
+https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1865/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=888
+#EXTINF:-1 tvg-id="888" tvg-logo="https://tatalogo.pages.dev/888.png" group-title="India",Ishara
+https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1300/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=191
+#EXTINF:-1 tvg-id="191" tvg-logo="https://tatalogo.pages.dev/191.png" group-title="India",DD National
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_140/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=307
+#EXTINF:-1 tvg-id="307" tvg-logo="https://tatalogo.pages.dev/307.png" group-title="India",Comedy Central HD
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_494/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=326
+#EXTINF:-1 tvg-id="326" tvg-logo="https://tatalogo.pages.dev/326.png" group-title="India",DD Kisan
+https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_510/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=808
+#EXTINF:-1 tvg-id="808" tvg-logo="https://tatalogo.pages.dev/808.png" group-title="India",Tata Play Hits
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_998/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=187
+#EXTINF:-1 tvg-id="187" tvg-logo="https://tatalogo.pages.dev/187.png" group-title="India",Colors Infinity HD
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_304/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=1101
+#EXTINF:-1 tvg-id="1101" tvg-logo="https://tatalogo.pages.dev/1101.png" group-title="India",Woman
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1914/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=306
+#EXTINF:-1 tvg-id="306" tvg-logo="https://tatalogo.pages.dev/306.png" group-title="India",Comedy Central
+https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_493/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=789
+#EXTINF:-1 tvg-id="789" tvg-logo="https://tatalogo.pages.dev/789.png" group-title="India",Tata Play Hollywood Local
+https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_980/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=486
+#EXTINF:-1 tvg-id="486" tvg-logo="https://tatalogo.pages.dev/486.png" group-title="India",Tata Play Bollywood Premiere
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_792/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=544
+#EXTINF:-1 tvg-id="544" tvg-logo="https://tatalogo.pages.dev/544.png" group-title="India",Colors Infinity
+https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_202/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=245
+#EXTINF:-1 tvg-id="245" tvg-logo="https://tatalogo.pages.dev/245.png" group-title="India",STAR GOLD HD
+https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_412/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=1130
+#EXTINF:-1 tvg-id="1130" tvg-logo="https://tatalogo.pages.dev/1130.png" group-title="India",Tata Play Bollywood Masala
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1924/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=80
+#EXTINF:-1 tvg-id="80" tvg-logo="https://tatalogo.pages.dev/80.png" group-title="India",SONY MAX HD
+https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_305/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=503
+#EXTINF:-1 tvg-id="503" tvg-logo="https://tatalogo.pages.dev/503.png" group-title="India",Zee Cinema HD
+https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_827/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=132
+#EXTINF:-1 tvg-id="132" tvg-logo="https://tatalogo.pages.dev/132.png" group-title="India",SONY MAX
+https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_198/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=123
+#EXTINF:-1 tvg-id="123" tvg-logo="https://tatalogo.pages.dev/123.png" group-title="India",Zee Cinema
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_185/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=1258
+#EXTINF:-1 tvg-id="1258" tvg-logo="https://tatalogo.pages.dev/1258.png" group-title="India",Tata Play Classic Cinema 2
+https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2045/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=741
+#EXTINF:-1 tvg-id="741" tvg-logo="https://tatalogo.pages.dev/741.png" group-title="India",Tata Play Classic Cinema
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1630/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=727
+#EXTINF:-1 tvg-id="727" tvg-logo="https://tatalogo.pages.dev/727.png" group-title="India",Zee Classic
+https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_955/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=175
+#EXTINF:-1 tvg-id="175" tvg-logo="https://tatalogo.pages.dev/175.png" group-title="India",Zee Bollywood
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_204/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=267
+#EXTINF:-1 tvg-id="267" tvg-logo="https://tatalogo.pages.dev/267.png" group-title="India",&pictures HD
+https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_454/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=1183
+#EXTINF:-1 tvg-id="1183" tvg-logo="https://tatalogo.pages.dev/1183.png" group-title="India",&Xplor HD
+https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1963/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=666
+#EXTINF:-1 tvg-id="666" tvg-logo="https://tatalogo.pages.dev/666.png" group-title="India",Tata Play Theatre HD
+https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_899/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=148
+#EXTINF:-1 tvg-id="148" tvg-logo="https://tatalogo.pages.dev/148.png" group-title="India",&pictures
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_203/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=632
+#EXTINF:-1 tvg-id="632" tvg-logo="https://tatalogo.pages.dev/632.png" group-title="India",Star GOLD HD 2
+https://delta14tatasky.akamaized.net/out/i/5137035.mpd
+
+#EXTINF:-1 tvg-id="ts632" tvg-logo="https://i.ibb.co/kJCTGhg/CC-20221111-203447.png" group-title="India",STAR GOLD2
+http://itspkg.in/ttv/play.php?tv=976
+
+#EXTINF:-1 tvg-id="ts632" group-title="India" tvg-name="Star Gold Select HD" tvg-logo="https://i.ibb.co/YXvncZy/CC-20221111-203628.png",Star Gold Select
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-SELECT-HD/video.m3u8
+
+#EXTINF:-1 tvg-id="ts632" group-title="India" tvg-name="Star Movies HD" tvg-logo="https://i.postimg.cc/WpxKWWB0/image.jpg",Star Movies HD
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=1769
+#EXTINF:-1 tvg-id="1769" tvg-logo="https://tatalogo.pages.dev/1769.png" group-title="India",Star GOLD Romance
+https://delta14tatasky.akamaized.net/out/i/5137035.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=677
+#EXTINF:-1 tvg-id="677" tvg-logo="https://tatalogo.pages.dev/677.png" group-title="India",Tata Play ShortsTV
+https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_902/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=53
+#EXTINF:-1 tvg-id="53" tvg-logo="https://tatalogo.pages.dev/53.png" group-title="India",Colors Cineplex
+https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_384/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=61
+#EXTINF:-1 tvg-id="61" tvg-logo="https://tatalogo.pages.dev/61.png" group-title="India",Colors Cineplex HD
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_385/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=730
+#EXTINF:-1 tvg-id="730" tvg-logo="https://tatalogo.pages.dev/730.png" group-title="India",B4U Kadak
+https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_957/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=7
+#EXTINF:-1 tvg-id="7" tvg-logo="https://tatalogo.pages.dev/7.png" group-title="India",B4U Movies
+https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_276/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=1003
+#EXTINF:-1 tvg-id="1003" tvg-logo="https://tatalogo.pages.dev/1003.png" group-title="India",Tata Play South Talkies
+https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1829/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=56
+#EXTINF:-1 tvg-id="56" tvg-logo="https://tatalogo.pages.dev/56.png" group-title="India",Sony Wah
+https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_386/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=100
+#EXTINF:-1 tvg-id="100" tvg-logo="https://tatalogo.pages.dev/100.png" group-title="India",Zee Action
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_205/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=120
+#EXTINF:-1 tvg-id="120" tvg-logo="https://tatalogo.pages.dev/120.png" group-title="India",SONY MAX 2
+https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_199/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=182
+#EXTINF:-1 tvg-id="182" tvg-logo="https://tatalogo.pages.dev/182.png" group-title="India",Cinema TV India
+https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_357/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=1000
+#EXTINF:-1 tvg-id="1000" tvg-logo="https://tatalogo.pages.dev/1000.png" group-title="India",Colors Cineplex Bollywood
+https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1827/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=194
+#EXTINF:-1 tvg-id="194" tvg-logo="https://tatalogo.pages.dev/194.png" group-title="India",Dangal 2
+https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_358/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=296
+#EXTINF:-1 tvg-id="296" tvg-logo="https://tatalogo.pages.dev/296.png" group-title="India",BFLIX
+https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_472/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=64
+#EXTINF:-1 tvg-id="64" tvg-logo="https://tatalogo.pages.dev/64.png" group-title="India",Zee Anmol Cinema
+https://bpprod1live.akamaized.net/bpk-tv/irdeto_com_Channel_387/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=276
+#EXTINF:-1 tvg-id="276" tvg-logo="https://tatalogo.pages.dev/276.png" group-title="India",WoW Cinema One
+https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_824/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=1117
+#EXTINF:-1 tvg-id="1117" tvg-logo="https://tatalogo.pages.dev/1117.png" group-title="India",ABZY Movies
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1917/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=965
+#EXTINF:-1 tvg-id="965" tvg-logo="https://tatalogo.pages.dev/965.png" group-title="India",Manoranjan Grand
+https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1793/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=731
+#EXTINF:-1 tvg-id="731" tvg-logo="https://tatalogo.pages.dev/731.png" group-title="India",Manoranjan TV
+https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_956/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=234
+#EXTINF:-1 tvg-id="234" tvg-logo="https://tatalogo.pages.dev/234.png" group-title="India",MNX
+https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_237/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=1037
+#EXTINF:-1 tvg-id="1037" tvg-logo="https://tatalogo.pages.dev/1037.png" group-title="India",Dhamaka Movies B4U
+https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1856/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=173
+#EXTINF:-1 tvg-id="173" tvg-logo="https://tatalogo.pages.dev/173.png" group-title="India",Movies Now
+https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_235/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=558
+#EXTINF:-1 tvg-id="558" tvg-logo="https://tatalogo.pages.dev/558.png" group-title="India",SONY PIX
+https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_200/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=562
+#EXTINF:-1 tvg-id="562" tvg-logo="https://tatalogo.pages.dev/562.png" group-title="India",Movies Now HD
+https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_563/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=32
+#EXTINF:-1 tvg-id="32" tvg-logo="https://tatalogo.pages.dev/32.png" group-title="India",SONY PIX HD
+https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_301/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=599
+#EXTINF:-1 tvg-id="599" tvg-logo="https://tatalogo.pages.dev/599.png" group-title="India",MNX HD
+https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_636/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=210
+#EXTINF:-1 tvg-id="210" tvg-logo="https://tatalogo.pages.dev/210.png" group-title="India",MN+ HD
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_259/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=174
+#EXTINF:-1 tvg-id="174" tvg-logo="https://tatalogo.pages.dev/174.png" group-title="India",Romedy Now
+https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_236/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=78
+#EXTINF:-1 tvg-id="78" tvg-logo="https://tatalogo.pages.dev/78.png" group-title="Sports",Star Sports 1 HD
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=235
+#EXTINF:-1 tvg-id="235" tvg-logo="https://tatalogo.pages.dev/235.png" group-title="Sports",Star Sports 2 HD
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_251/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=246
+#EXTINF:-1 tvg-id="246" tvg-logo="https://tatalogo.pages.dev/246.png" group-title="Sports",Star Sports Select 1 HD
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_413/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=463
+#EXTINF:-1 tvg-id="463" tvg-logo="https://tatalogo.pages.dev/463.png" group-title="Sports",Star Sports Select 2 HD
+https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_729/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=223
+#EXTINF:-1 tvg-id="223" tvg-logo="https://tatalogo.pages.dev/223.png" group-title="Sports",DD Sports
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_146/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=81
+#EXTINF:-1 tvg-id="81" tvg-logo="https://tatalogo.pages.dev/81.png" group-title="Sports",SONY SPORTS TEN 1 HD
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_256/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=24
+#EXTINF:-1 tvg-id="24" tvg-logo="https://tatalogo.pages.dev/24.png" group-title="Sports",Star Sports 1 Hindi HD
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=170
+#EXTINF:-1 tvg-id="170" tvg-logo="https://tatalogo.pages.dev/170.png" group-title="Sports",SONY SPORTS TEN 2
+https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_115/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=150
+#EXTINF:-1 tvg-id="150" tvg-logo="https://tatalogo.pages.dev/150.png" group-title="Sports",SONY SPORTS TEN 1
+https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_114/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=464
+#EXTINF:-1 tvg-id="464" tvg-logo="https://tatalogo.pages.dev/464.png" group-title="Sports",SONY SPORTS TEN 3 HD
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_727/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=462
+#EXTINF:-1 tvg-id="462" tvg-logo="https://tatalogo.pages.dev/462.png" group-title="Sports",SONY SPORTS TEN 2 HD
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_726/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=171
+#EXTINF:-1 tvg-id="171" tvg-logo="https://tatalogo.pages.dev/171.png" group-title="Sports",SONY SPORTS TEN 3
+https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_116/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=1033
+#EXTINF:-1 tvg-id="1033" tvg-logo="https://tatalogo.pages.dev/1033.png" group-title="Sports",Sports 18 - 1 HD
+https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1852/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=35
+#EXTINF:-1 tvg-id="35" tvg-logo="https://tatalogo.pages.dev/35.png" group-title="Sports",SONY SPORTS TEN 5 HD
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_254/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=980
+#EXTINF:-1 tvg-id="980" tvg-logo="https://tatalogo.pages.dev/980.png" group-title="Sports",Sports 18 - 1
+https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1809/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=693
+#EXTINF:-1 tvg-id="693" tvg-logo="https://tatalogo.pages.dev/693.png" group-title="Sports",Eurosport
+https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_935/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=691
+#EXTINF:-1 tvg-id="691" tvg-logo="https://tatalogo.pages.dev/691.png" group-title="India",DD News HD
+https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_932/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=322
+#EXTINF:-1 tvg-id="322" tvg-logo="https://tatalogo.pages.dev/322.png" group-title="India",DD News
+https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_517/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=179
+#EXTINF:-1 tvg-id="179" tvg-logo="https://tatalogo.pages.dev/179.png" group-title="India",NDTV India
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_104/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=177
+#EXTINF:-1 tvg-id="177" tvg-logo="https://tatalogo.pages.dev/177.png" group-title="India",ABP News
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_165/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=783
+#EXTINF:-1 tvg-id="783" tvg-logo="https://tatalogo.pages.dev/783.png" group-title="India",Tata Play Seniors
+https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_974/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=812
+#EXTINF:-1 tvg-id="812" tvg-logo="https://tatalogo.pages.dev/812.png" group-title="Sports",Eurosport HD
+https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1109/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=153
+#EXTINF:-1 tvg-id="153" tvg-logo="https://tatalogo.pages.dev/153.png" group-title="India",Aaj Tak
+https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_191/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=689
+#EXTINF:-1 tvg-id="689" tvg-logo="https://tatalogo.pages.dev/689.png" group-title="India",Aaj Tak HD
+https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_930/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=1056
+#EXTINF:-1 tvg-id="1056" tvg-logo="https://tatalogo.pages.dev/1056.png" group-title="India",Tata Play Har Ghar Startup
+https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1874/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=259
+#EXTINF:-1 tvg-id="259" tvg-logo="https://tatalogo.pages.dev/259.png" group-title="India",Zee News
+https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_420/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=104
+#EXTINF:-1 tvg-id="104" tvg-logo="https://tatalogo.pages.dev/104.png" group-title="India",India TV
+https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_148/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=209
+#EXTINF:-1 tvg-id="209" tvg-logo="https://tatalogo.pages.dev/209.png" group-title="India",News 24
+https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_308/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=514
+#EXTINF:-1 tvg-id="514" tvg-logo="https://tatalogo.pages.dev/514.png" group-title="India",Zee Bharat
+https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_840/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=928
+#EXTINF:-1 tvg-id="928" tvg-logo="https://tatalogo.pages.dev/928.png" group-title="India",Tata Play NEET Prep
+https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1323/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=106
+#EXTINF:-1 tvg-id="106" tvg-logo="https://tatalogo.pages.dev/106.png" group-title="India",News18 India
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_149/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=183
+#EXTINF:-1 tvg-id="183" tvg-logo="https://tatalogo.pages.dev/183.png" group-title="India",India News
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_150/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=929
+#EXTINF:-1 tvg-id="929" tvg-logo="https://tatalogo.pages.dev/929.png" group-title="India",Tata Play JEE Prep
+https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1324/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=36
+#EXTINF:-1 tvg-id="36" tvg-logo="https://tatalogo.pages.dev/36.png" group-title="India",News Nation
+https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_309/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=1010
+#EXTINF:-1 tvg-id="1010" tvg-logo="https://tatalogo.pages.dev/1010.png" group-title="India",Bharat 24
+https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1836/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=932
+#EXTINF:-1 tvg-id="932" tvg-logo="https://tatalogo.pages.dev/932.png" group-title="India",Times Now Navbharat HD
+https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1327/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=966
+#EXTINF:-1 tvg-id="966" tvg-logo="https://tatalogo.pages.dev/966.png" group-title="India",Times Now Navbharat
+https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1791/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=485
+#EXTINF:-1 tvg-id="485" tvg-logo="https://tatalogo.pages.dev/485.png" group-title="India",TOTAL TV
+https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_785/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=831
+#EXTINF:-1 tvg-id="831" tvg-logo="https://tatalogo.pages.dev/831.png" group-title="India",News India 24x7
+https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1125/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=1031
+#EXTINF:-1 tvg-id="1031" tvg-logo="https://tatalogo.pages.dev/1031.png" group-title="India",Surya Samachar
+https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1842/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=475
+#EXTINF:-1 tvg-id="475" tvg-logo="https://tatalogo.pages.dev/475.png" group-title="India",Sudarshan News
+https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_754/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=1051
+#EXTINF:-1 tvg-id="1051" tvg-logo="https://tatalogo.pages.dev/1051.png" group-title="India",Bharat Express
+https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1867/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=1161
+#EXTINF:-1 tvg-id="1161" tvg-logo="https://tatalogo.pages.dev/1161.png" group-title="India",Desh News
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1944/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=286
+#EXTINF:-1 tvg-id="286" tvg-logo="https://tatalogo.pages.dev/286.png" group-title="India",APN News
+https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_459/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=365
+#EXTINF:-1 tvg-id="365" tvg-logo="https://tatalogo.pages.dev/365.png" group-title="Kashmir",Gulistan News
+https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_557/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=1084
+#EXTINF:-1 tvg-id="1084" tvg-logo="https://tatalogo.pages.dev/1084.png" group-title="India",India Daily Live
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1897/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=950
+#EXTINF:-1 tvg-id="950" tvg-logo="https://tatalogo.pages.dev/950.png" group-title="India",ET Now Swadesh
+https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1781/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=685
+#EXTINF:-1 tvg-id="685" tvg-logo="https://tatalogo.pages.dev/685.png" group-title="India",India Voice
+https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_922/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=344
+#EXTINF:-1 tvg-id="344" tvg-logo="https://tatalogo.pages.dev/344.png" group-title="India",Hindi Khabar
+https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_564/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=414
+#EXTINF:-1 tvg-id="414" tvg-logo="https://tatalogo.pages.dev/414.png" group-title="India",News 1 India
+https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_658/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=291
+#EXTINF:-1 tvg-id="291" tvg-logo="https://tatalogo.pages.dev/291.png" group-title="India",Bharat Samachar
+https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_475/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=384
+#EXTINF:-1 tvg-id="384" tvg-logo="https://tatalogo.pages.dev/384.png" group-title="India",Khabarain Abhi Tak
+https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_596/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=441
+#EXTINF:-1 tvg-id="441" tvg-logo="https://tatalogo.pages.dev/441.png" group-title="India",Samay
+https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_703/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=848
+#EXTINF:-1 tvg-id="848" tvg-logo="https://tatalogo.pages.dev/848.png" group-title="India",Network 10
+https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1136/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=988
+#EXTINF:-1 tvg-id="988" tvg-logo="https://tatalogo.pages.dev/988.png" group-title="India",Har Khabar
+https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1814/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=260
+#EXTINF:-1 tvg-id="260" tvg-logo="https://tatalogo.pages.dev/260.png" group-title="India",Zee Business
+https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_421/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=784
+#EXTINF:-1 tvg-id="784" tvg-logo="https://tatalogo.pages.dev/784.png" group-title="India",FM News
+https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_976/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=278
+#EXTINF:-1 tvg-id="278" tvg-logo="https://tatalogo.pages.dev/278.png" group-title="India",Good News Today
+https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_434/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=212
+#EXTINF:-1 tvg-id="212" tvg-logo="https://tatalogo.pages.dev/212.png" group-title="India",Sansad TV - Rajya Sabha
+https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_311/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=213
+#EXTINF:-1 tvg-id="213" tvg-logo="https://tatalogo.pages.dev/213.png" group-title="India",Sansad TV
+https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_281/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=208
+#EXTINF:-1 tvg-id="208" tvg-logo="https://tatalogo.pages.dev/208.png" group-title="India",NDTV 24x7
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_107/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=547
+#EXTINF:-1 tvg-id="547" tvg-logo="https://tatalogo.pages.dev/547.png" group-title="India",Times Now World
+https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_779/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=204
+#EXTINF:-1 tvg-id="204" tvg-logo="https://tatalogo.pages.dev/204.png" group-title="India",CNBC Awaaz
+https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_147/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=90
+#EXTINF:-1 tvg-id="90" tvg-logo="https://tatalogo.pages.dev/90.png" group-title="India",TIMES NOW
+https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_162/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=206
+#EXTINF:-1 tvg-id="206" tvg-logo="https://tatalogo.pages.dev/206.png" group-title="India",CNN News18
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_108/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=1
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tatalogo.pages.dev/1.png" group-title="India",INDIA TODAY
+https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_221/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=591
+#EXTINF:-1 tvg-id="591" tvg-logo="https://tatalogo.pages.dev/591.png" group-title="India",MIRROR NOW
+https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_615/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=304
+#EXTINF:-1 tvg-id="304" tvg-logo="https://tatalogo.pages.dev/304.png" group-title="India",CNBC TV18 Prime HD
+https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_488/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=255
+#EXTINF:-1 tvg-id="255" tvg-logo="https://tatalogo.pages.dev/255.png" group-title="India",WION
+https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_422/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=324
+#EXTINF:-1 tvg-id="324" tvg-logo="https://tatalogo.pages.dev/324.png" group-title="India",DD India
+https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_508/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=72
+#EXTINF:-1 tvg-id="72" tvg-logo="https://tatalogo.pages.dev/72.png" group-title="India",REPUBLIC TV
+https://vg-republictataplay.akamaized.net/v1/dash/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-380287/index.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=93
+#EXTINF:-1 tvg-id="93" tvg-logo="https://tatalogo.pages.dev/93.png" group-title="India",NDTV Profit Prime
+https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_110/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=168
+#EXTINF:-1 tvg-id="168" tvg-logo="https://tatalogo.pages.dev/168.png" group-title="India",CNBC-TV18
+https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_109/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=88
+#EXTINF:-1 tvg-id="88" tvg-logo="https://tatalogo.pages.dev/88.png" group-title="India",ET NOW
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_163/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=243
+#EXTINF:-1 tvg-id="243" tvg-logo="https://tatalogo.pages.dev/243.png" group-title="India",CNN
+https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_410/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=157
+#EXTINF:-1 tvg-id="157" tvg-logo="https://tatalogo.pages.dev/157.png" group-title="India",Channel News Asia
+https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_220/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=65
+#EXTINF:-1 tvg-id="65" tvg-logo="https://tatalogo.pages.dev/65.png" group-title="India",TV5 Monde Asie
+https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_377/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=190
+#EXTINF:-1 tvg-id="190" tvg-logo="https://tatalogo.pages.dev/190.png" group-title="India",Al Jazeera
+https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_187/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=131
+#EXTINF:-1 tvg-id="131" tvg-logo="https://tatalogo.pages.dev/131.png" group-title="India",France 24
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_241/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=105
+#EXTINF:-1 tvg-id="105" tvg-logo="https://tatalogo.pages.dev/105.png" group-title="India",Australia TV
+https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_239/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=188
+#EXTINF:-1 tvg-id="188" tvg-logo="https://tatalogo.pages.dev/188.png" group-title="India",BBC News
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_151/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=60
+#EXTINF:-1 tvg-id="60" tvg-logo="https://tatalogo.pages.dev/60.png" group-title="India",DW
+https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_376/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=98
+#EXTINF:-1 tvg-id="98" tvg-logo="https://tatalogo.pages.dev/98.png" group-title="India",Russia Today
+https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_238/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=71
+#EXTINF:-1 tvg-id="71" tvg-logo="https://tatalogo.pages.dev/71.png" group-title="India",Tata Play English in Hindi
+https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_396/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=976
+#EXTINF:-1 tvg-id="976" tvg-logo="https://tatalogo.pages.dev/976.png" group-title="India",NHK World Japan
+https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1804/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=587
+#EXTINF:-1 tvg-id="587" tvg-logo="https://tatalogo.pages.dev/587.png" group-title="Kids",Super Hungama
+https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_781/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="hungama.in" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/" group-title="Kids",Hungama Tv
+http://testing.denver1769.in/tptv.php?id=11646
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=627
+#EXTINF:-1 tvg-id="627" tvg-logo="https://tatalogo.pages.dev/627.png" group-title="Kids",Tata Play Fun Learn Junior
+https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_861/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=138
+#EXTINF:-1 tvg-id="138" tvg-logo="https://tatalogo.pages.dev/138.png" group-title="Kids",Nick
+https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_117/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=114
+#EXTINF:-1 tvg-id="114" tvg-logo="https://tatalogo.pages.dev/114.png" group-title="Kids",Disney
+https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_166/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=433
+#EXTINF:-1 tvg-id="433" tvg-logo="https://tatalogo.pages.dev/433.png" group-title="Kids",Nick HD+
+https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_663/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=626
+#EXTINF:-1 tvg-id="626" tvg-logo="https://tatalogo.pages.dev/626.png" group-title="Kids",Tata Play Fun Learn Preschool
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_860/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=238
+#EXTINF:-1 tvg-id="238" tvg-logo="https://tatalogo.pages.dev/238.png" group-title="Kids",Cartoon Network
+https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_405/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=681
+#EXTINF:-1 tvg-id="681" tvg-logo="https://tatalogo.pages.dev/681.png" group-title="Kids",Cartoon Network HD+
+https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_925/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=119
+#EXTINF:-1 tvg-id="119" tvg-logo="https://tatalogo.pages.dev/119.png" group-title="Kids",Discovery Kids
+https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_130/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=905
+#EXTINF:-1 tvg-id="905" tvg-logo="https://tatalogo.pages.dev/905.png" group-title="Kids",ETV Bal Bharat
+https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1311/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=127
+#EXTINF:-1 tvg-id="127" tvg-logo="https://tatalogo.pages.dev/127.png" group-title="Kids",Sonic Nickelodeon
+https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_169/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=118
+#EXTINF:-1 tvg-id="118" tvg-logo="https://tatalogo.pages.dev/118.png" group-title="Kids",Nick Jr
+https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_168/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=45
+#EXTINF:-1 tvg-id="45" tvg-logo="https://tatalogo.pages.dev/45.png" group-title="Kids",SONY YAY!
+https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_365/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=994
+#EXTINF:-1 tvg-id="994" tvg-logo="https://tatalogo.pages.dev/994.png" group-title="India",Tata Play Toons+
+https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1821/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=816
+#EXTINF:-1 tvg-id="816" tvg-logo="https://tatalogo.pages.dev/816.png" group-title="Kids",CBeeBies
+https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1112/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=605
+#EXTINF:-1 tvg-id="605" tvg-logo="https://tatalogo.pages.dev/605.png" group-title="India",National Geographic HD
+https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_652/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=111
+#EXTINF:-1 tvg-id="111" tvg-logo="https://tatalogo.pages.dev/111.png" group-title="India",Tata Play Smart Manager
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_391/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=144
+#EXTINF:-1 tvg-id="144" tvg-logo="https://tatalogo.pages.dev/144.png" group-title="Kids",Disney Junior
+https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_167/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=167
+#EXTINF:-1 tvg-id="167" tvg-logo="https://tatalogo.pages.dev/167.png" group-title="India",Tata Play Vedic Maths
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_392/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=413
+#EXTINF:-1 tvg-id="413" tvg-logo="https://tatalogo.pages.dev/413.png" group-title="India",Nat Geo Wild HD
+https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_655/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=239
+#EXTINF:-1 tvg-id="239" tvg-logo="https://tatalogo.pages.dev/239.png" group-title="Kids",Pogo
+https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_406/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=287
+#EXTINF:-1 tvg-id="287" tvg-logo="https://tatalogo.pages.dev/287.png" group-title="India",Animal Planet HD World
+https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_457/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=137
+#EXTINF:-1 tvg-id="137" tvg-logo="https://tatalogo.pages.dev/137.png" group-title="India",National Geographic
+https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_113/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=341
+#EXTINF:-1 tvg-id="341" tvg-logo="https://tatalogo.pages.dev/341.png" group-title="India",Discovery HD World
+https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_530/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=184
+#EXTINF:-1 tvg-id="184" tvg-logo="https://tatalogo.pages.dev/184.png" group-title="India",Nat Geo Wild
+https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_119/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=219
+#EXTINF:-1 tvg-id="219" tvg-logo="https://tatalogo.pages.dev/219.png" group-title="India",Discovery Channel
+https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_128/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=130
+#EXTINF:-1 tvg-id="130" tvg-logo="https://tatalogo.pages.dev/130.png" group-title="India",Animal Planet
+https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_129/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=616
+#EXTINF:-1 tvg-id="616" tvg-logo="https://tatalogo.pages.dev/616.png" group-title="India",History TV18 HD
+https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_565/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=113
+#EXTINF:-1 tvg-id="113" tvg-logo="https://tatalogo.pages.dev/113.png" group-title="India",Discovery Science
+https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_153/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=158
+#EXTINF:-1 tvg-id="158" tvg-logo="https://tatalogo.pages.dev/158.png" group-title="India",SONY BBC Earth
+https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_400/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=367
+#EXTINF:-1 tvg-id="367" tvg-logo="https://tatalogo.pages.dev/367.png" group-title="India",FOX Life HD
+https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_544/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=923
+#EXTINF:-1 tvg-id="923" tvg-logo="https://tatalogo.pages.dev/923.png" group-title="India",TravelXP 4K HDR
+https://deltatesttatasky.akamaized.net/out/i/968284.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=172
+#EXTINF:-1 tvg-id="172" tvg-logo="https://tatalogo.pages.dev/172.png" group-title="India",History TV18
+https://bpprod1live.akamaized.net/bpk-tv/irdeto_com_Channel_120/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=126
+#EXTINF:-1 tvg-id="126" tvg-logo="https://tatalogo.pages.dev/126.png" group-title="India",EPIC
+https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_194/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=460
+#EXTINF:-1 tvg-id="460" tvg-logo="https://tatalogo.pages.dev/460.png" group-title="India",SONY BBC Earth HD
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_722/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=480
+#EXTINF:-1 tvg-id="480" tvg-logo="https://tatalogo.pages.dev/480.png" group-title="India",TLC HD
+https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_780/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=646
+#EXTINF:-1 tvg-id="646" tvg-logo="https://tatalogo.pages.dev/646.png" group-title="India",DD Gyan Darshan
+https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_881/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=135
+#EXTINF:-1 tvg-id="135" tvg-logo="https://tatalogo.pages.dev/135.png" group-title="India",TLC
+https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_127/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=484
+#EXTINF:-1 tvg-id="484" tvg-logo="https://tatalogo.pages.dev/484.png" group-title="India",Travelxp HD
+https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_788/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=228
+#EXTINF:-1 tvg-id="228" tvg-logo="https://tatalogo.pages.dev/228.png" group-title="India",Discovery Turbo
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_145/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=136
+#EXTINF:-1 tvg-id="136" tvg-logo="https://tatalogo.pages.dev/136.png" group-title="India",GOOD TiMES
+https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_111/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=117
+#EXTINF:-1 tvg-id="117" tvg-logo="https://tatalogo.pages.dev/117.png" group-title="India",Food Food
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_154/output/manifest.mpd

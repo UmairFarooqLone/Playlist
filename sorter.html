@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>M3U Favorite Channel Selector</title>
+  <style>
+    /* Add visual enhancements for better user experience (optional) */
+    #channelsContainer {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+    #channelsContainer div {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Select Favorite Channels</h1>
+  <input type="file" id="fileInput" accept=".m3u">
+  <div id="channelsContainer"></div>
+  <button id="saveButton">Save Favorites</button>
+
+  <script>
+    // Handle potential errors and improve code clarity
+    const fileInput = document.getElementById("fileInput");
+    const channelsContainer = document.getElementById("channelsContainer");
+    const saveButton = document.getElementById("saveButton");
+
+    fileInput.addEventListener("change", async (event) => {
+      const file = event.target.files[0];
+      const reader = new FileReader();
+
+      try {
+        reader.onload = async (event) => {
+          const m3uData = event.target.result;
+          const channels = await parseM3uEnhanced(m3uData);
+          displayChannels(channels);
+        };
+
+        reader.readAsText(file);
+      } catch (error) {
+        console.error("Error reading file:", error);
+        // Display a user-friendly error message
+        channelsContainer.textContent = "An error occurred while reading the file. Please try again.";
+      }
+    });
+
+    saveButton.addEventListener("click", () => {
+      const selectedChannels = Array.from(document.querySelectorAll("input[type='checkbox']:checked"))
+        .map((checkbox) => checkbox.parentElement.textContent.trim());
+      const selectedM3uData = selectedChannels.map((channel) => `#EXTINF:-1\n${channel}`).join("\n");
+      saveFile(selectedM3uData, "favorites.m3u");
+    });
+
+    async function parseM3uEnhanced(m3uData) {
+      const channels = [];
+      const lines = m3uData.split("\n");
+
+      // Enhanced parsing using regular expressions or string manipulation
+      const channelPattern = /#EXTINF:(.*?)(tvg-id="([^"]*)")?(tvg-logo="([^"]*)")?(group-title="([^"]*)")?(.*)/;
+
+      for (const line of lines) {
+        const match = line.match(channelPattern);
+
+        if (match) {
+          const [, duration, id, logo, groupTitle, name, url] = match;
+
+          // Handle missing name gracefully
+          const channelName = name?.trim() || `Unnamed Channel (${url})`; // Use optional chaining and fallback
+
+          channels.push({
+            duration,
+            id: id ? id : undefined,
+            logo: logo ? logo : undefined,
+            groupTitle: groupTitle ? groupTitle : undefined,
+            name: channelName,
+            url,
+          });
+        } else {
+          // Handle lines that don't match the pattern (e.g., comments)
+          // Or warn the user about invalid lines
+        }
+      }
+
+      return channels;
+    }
+
+    function displayChannels(channels) {
+      channelsContainer.innerHTML = "";
+      channels.forEach((channel) => {
+        const channelElement = document.createElement("div");
+
+        const checkbox = document.createElement("input");
+        checkbox.type = "checkbox";
+        channelElement.appendChild(checkbox);
+
+        const channelInfo = document.createElement("span");
+        channelInfo.textContent = `${channel.name} - ${channel.url}`;
+        if (channel.groupTitle) {
+          channelInfo.textContent += ` (Group: ${channel.groupTitle})`;
+        }
+        channelElement.appendChild(channelInfo);
+
+        channelsContainer.appendChild(channelElement);
+      });
+    }
+
+    function saveFile(data, filename) {
+      const blob = new Blob([data], { type: "text/plain" });
+      const link = document.createElement("a");
+      link.href = URL.createObjectURL(blob);
+      link.download = filename;
+      link.click();
+      // Remove
+
+    }
+  </script>
+</body>
+</html>
