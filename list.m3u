@@ -1,4 +1,6 @@
-#EXTM3U
+#EXTM3U × Umair
+#EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
+
 #EXTINF:-1 tvg-id="DEFAULT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="Pakistan",A SPORTS
 http://testing.denver1769.in/tptv.php?id=30975
 #EXTINF:-1 tvg-id="DEFAULT" tvg-logo="https://assets.peacetv.tv/images/intro/ur-logo.png" group-title="Pakistan",PEACE TV URDU PAK
@@ -35,16 +37,12 @@ http://testing.denver1769.in/benj.php?id=2796
 http://testing.denver1769.in/benj.php?id=2806
 #EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",AAP NEWS HD
 http://testing.denver1769.in/benj.php?id=3012
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",ARY DIGITAL US
-http://testing.denver1769.in/benj.php?id=3097
 #EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",ARY NEWS US
 http://testing.denver1769.in/benj.php?id=3126
 #EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",ARY NEWS
 http://testing.denver1769.in/benj.php?id=3135
 #EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",ARY DIGITAL
-http://testing.denver1769.in/benj.php?id=3022
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",ARY DIGITAL UK
-http://testing.denver1769.in/benj.php?id=3041
+http://testing.denver1769.in/tptv.php?id=11115
 #EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",ARY ZINDAGI
 http://testing.denver1769.in/benj.php?id=3053
 #EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",GEO NEWS US
@@ -63,8 +61,8 @@ http://testing.denver1769.in/benj.php?id=3119
 http://testing.denver1769.in/benj.php?id=3133
 #EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",HUM SITARAY
 http://testing.denver1769.in/benj.php?id=3016
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",HUM TV HD
-http://testing.denver1769.in/benj.php?id=3027
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",HUM TV WORLD
+http://testing.denver1769.in/tptv.php?id=12216
 #EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",HUM MASALA US
 http://testing.denver1769.in/benj.php?id=3040
 #EXTINF:-1 tvg-id="" tvg-logo="http://tv.banjotv.tv/stalker_portal/misc/logos/320/" group-title="Pakistan",HUM MASALA
