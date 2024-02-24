@@ -211,12 +211,6 @@ https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_307/output/manife
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/KeyLelo.php?id=40
-#EXTINF:-1 tvg-id="40" tvg-logo="https://tatalogo.pages.dev/40.png" group-title="Entertainment",&tv HD
-https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_303/output/manifest.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=52
 #EXTINF:-1 tvg-id="52" tvg-logo="https://tatalogo.pages.dev/52.png" group-title="India",Colors HD
 https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_299/output/manifest.mpd
@@ -454,12 +448,6 @@ https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_955/output/manife
 #KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=175
 #EXTINF:-1 tvg-id="175" tvg-logo="https://tatalogo.pages.dev/175.png" group-title="India",Zee Bollywood
 https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_204/output/manifest.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/KeyLelo.php?id=267
-#EXTINF:-1 tvg-id="267" tvg-logo="https://tatalogo.pages.dev/267.png" group-title="Movies",&pictures HD
-https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_454/output/manifest.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1175,7 +1163,7 @@ https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1804/output/manif
 #EXTINF:-1 tvg-id="587" tvg-logo="https://tatalogo.pages.dev/587.png" group-title="Kids",Super Hungama
 https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_781/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="hungama.in" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/" group-title="Kids",Hungama Tv
+#EXTINF:-1 tvg-id="hungama.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Hungama_TV.png" group-title="Kids",Hungama Tv
 http://testing.denver1769.in/tptv.php?id=11646
 
 
